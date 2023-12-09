@@ -1,0 +1,137 @@
+.container1{
+    background-color:lightyellow;
+    position:fixed;
+    width:100%;
+}
+/* .container2{
+    height:300px;
+} */
+
+.hpos1{
+    font-size:14px;
+    margin-left:20px;
+}
+.hpos2{
+    font-size:27px;
+    margin-left:180px;
+    margin-top:-30px;
+    font-weight: bold;
+}
+.hpos3{
+    font-size:14px;
+    margin-top:-32px;
+    margin-left:420px;
+}
+.globelogo{
+    margin-left:1600px;
+    margin-top:-30px;
+    font-size:40px;
+}
+.ppos1{
+    margin-top:-35px;
+    margin-left:1650px;
+    font-size:28px;
+}
+.searchlogo{
+    margin-left:1800px;
+    margin-top:-35px;
+    font-size:40px; 
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+.menu-bar ul{
+list-style-type:none;
+width:100%;
+background-color:aqua;
+overflow:auto;
+height:80px;
+position:fixed;
+/* padding-top:30px;
+*/
+}
+.menu-bar li a{
+text-decoration:none;
+display:block;
+color:black;
+
+
+}
+.menu-bar li a:hover{
+background-color:green;
+color:white;
+}
+.menu-bar li{
+
+float:left;
+line-height:80px;
+margin-left:100px;
+font-size:20px;
+
+}
+
+.homelogo{
+    margin-left:45%;
+    margin-top:35px;
+}
+.vppos{
+    z-index:0;
+    position:absolute;
+    margin-top:-600px;
+    color:white;
+    font-size: 80px;
+    margin-left:400px;
+}
+.ppos2{
+    margin-left:40px;
+    font-weight:bold;
+    padding-top:20px;
+}
+.hpos4{
+    margin-left:40px;
+    line-height:80px;
+    font-size:35px;
+}
+.ppos3{
+    margin-left:40px;
+    margin-top:-230px;
+    line-height:30px;
+    font-size:25px;
+}
+
+.ppos4{
+    margin-left:790px;
+    padding-top:30px;
+    line-height:30px;
+    font-size:55px;
+    
+}
+/* #rectangle{
+    width:900px;
+    height:300px;
+    border-style:solid;
+    border-width:2px;
+    margin-top:20px;
+    
+} */
+
+.ppos5{
+    font-weight:bold;
+    font-size: 40px;
+    padding-left:60px;
+    padding-top:80px;
+}
+.ppos6{
+    
+    font-size: 30px;
+    padding-left:60px;
+    padding-top:40px;
+    color:red;
+}
+.ppos7{
+    font-weight:bold;
+    font-size: 40px;
+    padding-left:60px;
+    padding-top:80px;
+}
