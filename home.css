@@ -1,5 +1,5 @@
 .container1{
-    background-color:lightgreen;
+    background-image: linear-gradient(to right, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
     position:fixed;
     width:100vw;
     height:6.4vh;
@@ -15,7 +15,7 @@
     width:100vw;
 } */
 .container4{
-    background-color:orange;
+    background-image: linear-gradient(to right, rgba(248, 215, 29, 0.904) , rgb(255, 72, 0));
     height:86.3vh;
     margin-top:-3.9vh;
 }
@@ -24,20 +24,21 @@
     height:86.6vh;
 }
  .container6{
+    background-image: linear-gradient(to right, rgba(110, 187, 74, 0.904) , rgb(150, 96, 175));
     height:86.6vh;
     background-color:lightgreen;
 }
 .container7{
+    background-image: linear-gradient(to right, rgba(233, 131, 91, 0.904) , rgb(33, 111, 201));
     height:86.6vh;
-    background-color:lightpink;
 }
 .container8{
+    background-image: linear-gradient(to right, rgb(240, 239, 235) , rgba(82, 80, 83, 0.986));
     height:86.6vh;
-    background-color:darkgrey;
 }
 .container9{
+    background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
     height:86.6vh;
-    background-color:cornflowerblue;
 }
 /*.container8{
     margin-top:4vw;
