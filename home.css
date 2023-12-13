@@ -18,6 +18,7 @@
     background-image: linear-gradient(to right, rgba(248, 215, 29, 0.904) , rgb(255, 72, 0));
     height:86.3vh;
     margin-top:-3.9vh;
+    margin-left:-0.2vw;
 }
 .container5{
     background-color:lightpink;
@@ -27,14 +28,17 @@
     background-image: linear-gradient(to right, rgba(110, 187, 74, 0.904) , rgb(150, 96, 175));
     height:86.6vh;
     background-color:lightgreen;
+    width:99.1vw;
 }
 .container7{
     background-image: linear-gradient(to right, rgba(233, 131, 91, 0.904) , rgb(33, 111, 201));
     height:86.6vh;
+    width:99.1vw;
 }
 .container8{
     background-image: linear-gradient(to right, rgb(240, 239, 235) , rgba(82, 80, 83, 0.986));
     height:86.6vh;
+    width:99.1vw;
 }
 .container9{
     background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
@@ -64,7 +68,7 @@
        z-index: 1;
        display: flex;
        margin-top: -10px;
-       margin-left: -8px;
+       margin-left:-0.4vw;
 }
 .cc{
     text-decoration: none;
@@ -77,28 +81,28 @@
 .ne{
 text-decoration: none;
 margin-left:11vw;
-margin-top: -7.6vh;
+margin-top: -6vh;
 font-size: 25px;
 }
 .In{
 text-decoration: none;
 margin-left: 25vw;
-margin-top: -7.8vh;
+margin-top: -6vh;
 font-size: 25px;
 }
 .world{
-    margin-left: 1255px;
+    margin-left: 1610px;
     margin-top: -65px;
     font-size: 30px;
 }
 .globelogo{
-    margin-left: 1220px;
+    margin-left: 1580px;
     top: 0;
     margin-top: -49.5px;
     font-size: 32px;
 }
 .searchlogo{
-    margin-left: 1400px;
+    margin-left: 1750px;
     margin-top: -60px;
     font-size: 27px;
 }
@@ -110,7 +114,7 @@ font-size: 25px;
     background-color:white;
     text-align: right;
     position:fixed;
-    width:100vw;
+    width:99.1vw;
     height:65px;
     margin-top:-35px;
     z-index:1;
@@ -190,11 +194,9 @@ color: #fff;
 
 .menu-bar{
     margin-top: 0%;
-    margin-left: 0%;
-    margin-right: 2%;
     text-decoration: white;
-    width: 100%;
-   
+    width:98vw;
+   margin-left:-0.4vw;
     text-align: right;
     display: flex;
   }
