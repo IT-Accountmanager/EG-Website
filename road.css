@@ -195,20 +195,18 @@ height:65px;
 margin-top:48px;
 z-index:1;
 }
-
-
 .what {
     margin-left:-5%;
      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      font-size: 1.3rem;
      font-weight: bold;
   top: -100px;
- margin-top: -35%;
+ margin-top: -3.6%;
     
      /* width: 150%; */
 }
 .Whos{
-    margin-top: -35%;
+    margin-top: -3.6%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.3rem;
     font-weight: bold;
@@ -218,17 +216,17 @@ z-index:1;
     font-size: 21px;
     font-weight: bold;
      
-    margin-top: -35%;
+    margin-top: -3.6%;
 }
 .Insights{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      font-size: 21px;
      font-weight: bold;
      margin-left: -21px;
-     margin-top: -35%;
+     margin-top: -3.6%;
 }
 .getin{
-   margin-top: -35%;
+   margin-top: -3.6%;
    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 21px;
    font-weight: bold;
@@ -245,8 +243,8 @@ z-index:1;
     margin-top: 20px;
 }
 .gg{
-    margin-left: 38vw;
-    margin-top: -368px;
+    margin-left: 2vw;
+    margin-top: 10px;
     margin-bottom: -20px;
 width: 0%;
 font-size: 25px;
@@ -254,8 +252,8 @@ text-decoration: none;
 color: #fff;
 }
 .lk{
-  margin-top: 340px;
-  margin-left: -1vw;
+  margin-top: -50px;
+  margin-left: 32vw;
 }
 .text
 {
@@ -265,7 +263,7 @@ color: #fff;
 
 
 .container{
-    background-image:url(pcp9.PNG);
+    background-image:url(ppc3.PNG);
     position: cover;
     background-size: auto;
     background-repeat: no-repeat;
@@ -275,217 +273,4 @@ color: #fff;
     margin-left: auto;
   margin-right: auto;
     height:50vw;
-  }
-  .aboutt{
-    margin-left: 150px;
-    color: rgb(247, 244, 244);
-    margin-top: 220px;
-    font-size: 48px;
-    font-family: sans-serif;
-    font-weight: bold;
-    width: 300%;
-  }
-  .paragraph{
-    display: flex;
-  }
-  .p1{
-    margin-top: 310px;
-    margin-left: -370px;
-    font-size: 40px;
-    font-family: sans-serif;
-   width: 650%;
-    color: rgb(211, 167, 167);
-  }
-  .p2{
-    margin-top: 480px;
-    margin-left: -770px;
-    font-size: 25px;
-    font-family: sans-serif;
-   width: 800%;
-    color: rgb(211, 167, 167);
-  }
-  
-  .let{
-    font-size: 120px;
-    margin-top: -120px;
-  }
-  .circle {
-    width: 280px;
-    height: 280px;
-    line-height: 500px;
-    border-radius: 50%;
-    margin-top: 200px;
-    margin-left: 10px;
-    color: black;
-    text-align: center;
-    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
-  }
-  .lets{
-    font-size: 120px;
-    margin-top: -120px;
-  }
-  .circle2 {
-    width: 280px;
-    height: 280px;
-    line-height: 500px;
-    border-radius: 50%;
-    margin-top: 390px;
-    margin-left: -265px;
-    color: black;
-    text-align: center;
-    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
-    border: black;
-  }
- 
-
-  .container2{
-    background-image:url(ppc1.PNG);
-    position: cover;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    margin-left: auto;
-  margin-right: auto;
-    height:48vw;
-  }
-  .pp1{
-    margin-top: 120px;
-    margin-left: 30px;
-    font-size: 45px;
-    font-weight: bold;
-    font-family: sans-serif;
-    width: 550%;
-  }
-  .pp2{
-    margin-top: 300px;
-    margin-left: -1055px;
-    margin-right: 330px;
-    font-size: 18px;
-    font-family: sans-serif;
-    width: 465%;
-  }
-  .pp3{
-    margin-top: 430px;
-    margin-left: -1210px;
-    margin-right: 500px;
-    font-size: 18px;
-    font-family: sans-serif;
-    width: 435%;
-  }
-  .pp4{
-    margin-top: 558px;
-    margin-left: -1330px;
-    margin-right: 115px;
-    font-size: 18px;
-    font-family: sans-serif;
-    width: 450%;
-  }
-  .img1{
-    margin-top: 150px;
-    margin-left: -350px;
-    margin-right: 230px;
-  }
-  .img2{
-    margin-top: 200px;
-    margin-right: 220px;
-    margin-left: -300px;
-    width: 30%;
-  }
-  .img3{
-    margin-top: 420px;
-    margin-left: -290px;
-    margin-right: 290px;
-  }
-  .circle3 {
-    width: 130%;
-    height: 200px;
-    line-height: 50px;
-    border-radius: 50%;
-    margin-top: 400px;
-   margin-right: 100px;
-    color: black;
-    text-align: center;
-    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
-  }
-  .let1{
-    font-size: 25px;
-    margin-top: 70px;
-    margin-left: -50px;
-   font-weight: bold;
-  }
-  .pp{
-    margin-top: -20px;
-    font-size: 25px;
-    margin-left: -62px;
-    font-weight: bold;
-  }
-  .paragraph-2{
-    display: flex;
-  }
-
-
-
-
-  .container3{
-    position: cover;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    margin-left: auto;
-  margin-right: auto;
-    height:30vw;
-  }
-  .para{
-    display: flex;
-  }
-  .treeimg{
-   
-    margin-top: 105px;
-    margin-left: 480px;
-  }
-  .footer{
-    background-color:#746e7d;
-    height:68px;
-    margin-top:605px;
-    margin-left: -1000px;
-    display: flex;
-    width: 106%;
-  }
-  .fp{
-    color:black;
-    text-align:center;
-    font-weight:normal;
-    padding-top:26px;
-    margin-left: -30px;
-    font-size: 20px;
-    margin-right: 120px;
-  }
-  .imgft{
-   margin-top: 7px;
-   margin-left: 30px;
-  }
-  .link{
-    margin-top: 18px;
-    margin-left: 270px;
-  }
-  .fc{
-    margin-left: -490px;
-    margin-top: 18px;
-  }
-  .you{
-    margin-left:2px;
-    margin-top: 20px;
-   
-  }
-  .ggl{
-    margin-top: 20px;
-    margin-left: 24px;
-  }
-  .insta{
-    margin-top: 18px;
-    margin-left: -160px;
   }
