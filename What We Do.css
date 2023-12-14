@@ -7,7 +7,7 @@
       height:48px;
        position: fixed;
        width:100%;
-       z-index: 1;
+       z-index: 2;
        display: flex;
 }
 .cc{
@@ -351,7 +351,7 @@ color: #fff;
     height:48vw;
   }
   .pp1{
-    margin-top: 120px;
+    margin-top: 90px;
     margin-left: 30px;
     font-size: 45px;
     font-weight: bold;
@@ -359,42 +359,42 @@ color: #fff;
     width: 550%;
   }
   .pp2{
-    margin-top: 300px;
-    margin-left: -1055px;
-    margin-right: 330px;
+    margin-top: 280px;
+    margin-left: -1020px;
+    margin-right: 432px;
     font-size: 18px;
     font-family: sans-serif;
     width: 465%;
   }
   .pp3{
-    margin-top: 430px;
-    margin-left: -1210px;
-    margin-right: 500px;
+    margin-top: 410px;
+    margin-left: -1300px;
+    margin-right: 570px;
     font-size: 18px;
     font-family: sans-serif;
-    width: 435%;
+    width: 445%;
   }
   .pp4{
-    margin-top: 558px;
-    margin-left: -1330px;
-    margin-right: 115px;
+    margin-top: 538px;
+    margin-left: -1400px;
+    margin-right: 165px;
     font-size: 18px;
     font-family: sans-serif;
     width: 450%;
   }
   .img1{
-    margin-top: 150px;
+    margin-top: 130px;
     margin-left: -350px;
     margin-right: 230px;
   }
   .img2{
-    margin-top: 200px;
+    margin-top: 170px;
     margin-right: 220px;
     margin-left: -300px;
     width: 30%;
   }
   .img3{
-    margin-top: 420px;
+    margin-top: 400px;
     margin-left: -290px;
     margin-right: 290px;
   }
@@ -403,8 +403,8 @@ color: #fff;
     height: 200px;
     line-height: 50px;
     border-radius: 50%;
-    margin-top: 400px;
-   margin-right: 100px;
+    margin-top: 370px;
+   margin-right: 70px;
     color: black;
     text-align: center;
     background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
@@ -412,13 +412,13 @@ color: #fff;
   .let1{
     font-size: 25px;
     margin-top: 70px;
-    margin-left: -50px;
+    margin-left: -85px;
    font-weight: bold;
   }
   .pp{
     margin-top: -20px;
     font-size: 25px;
-    margin-left: -62px;
+    margin-left: -98px;
     font-weight: bold;
   }
   .paragraph-2{
@@ -444,48 +444,61 @@ color: #fff;
   }
   .treeimg{
    
-    margin-top: 105px;
+    margin-top: 65px;
     margin-left: 480px;
   }
+.rd{
+  margin-top: 10%;
+  margin-left: -25%;
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
   .footer{
-    background-color:#746e7d;
-    height:68px;
-    margin-top:605px;
-    margin-left: -1000px;
+    height: 50px;
+    margin-top: 108px;
     display: flex;
-    width: 106%;
+    background-color: bisque;
   }
   .fp{
-    color:black;
-    text-align:center;
-    font-weight:normal;
-    padding-top:26px;
-    margin-left: -30px;
-    font-size: 20px;
-    margin-right: 120px;
-  }
-  .imgft{
-   margin-top: 7px;
-   margin-left: 30px;
-  }
-  .link{
     margin-top: 18px;
-    margin-left: 270px;
+   margin-left: 1.5%;
+   font-size: 20px;
   }
   .fc{
-    margin-left: -490px;
-    margin-top: 18px;
+    margin-left: 69%;
+    margin-top:10px ;
   }
-  .you{
-    margin-left:2px;
-    margin-top: 20px;
-   
+  .eimg{
+    margin-left: -90%;
+    margin-top: 6px;
   }
-  .ggl{
-    margin-top: 20px;
-    margin-left: 24px;
+  .lin{
+    margin-top: 5px;
+    margin-left: 200px;
   }
-  .insta{
-    margin-top: 18px;
-    margin-left: -160px;
+  .face{
+    margin-top: 5px;
+   margin-left: 0.6%;
+  }
+  .inst{
+    margin-top: 5px;
+   margin-left: 0.9%;
+  }
+  .gm{
+    margin-top: 5px;
+    margin-left: -36%;
+  }
+  .uu{
+    margin-top: 5px;
+    margin-left: -0.5%;
   }
