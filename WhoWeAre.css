@@ -501,7 +501,7 @@
        }
   
   .text1 {
-    color:black;
+    color:white;
     font-size: 28px;
   font-family: sans-serif;
     position: absolute;
@@ -562,16 +562,21 @@
                                         /* ---------------------------third slides css------------------------ */
   
   .text2 {
-    color:black;
+    color:white;
     font-size: 28px;
   font-family: sans-serif;
     position: absolute;
-   margin-top: -480px;
-   margin-left: 240px;
+   margin-top: 60px;
+   margin-left: 280px;
     width: 50%;
     text-align: justify;
+    line-height:40px;
    
   
+  }
+  .img5{
+    margin-left:500px;
+    margin-top:-700px;
   }
   .me2{
    
@@ -600,8 +605,8 @@
   
   
   .meimge3{
-    margin-top: 120px;
-    margin-left: 1300px;
+    margin-top: 55px;
+    margin-left: 1120px;
     z-index: -1;
     display: flex;
    
@@ -612,16 +617,20 @@
                                                     /* ---------------------------fourth slides css------------------------ */
   
   .text3 {
-    color:black;
+    color:white;
     font-size: 28px;
   font-family: sans-serif;
     position: absolute;
-   margin-top: -480px;
-   margin-left: 240px;
+   margin-top: 60px;
+   margin-left: 280px;
     width: 50%;
     text-align: justify;
    
   
+  }
+  .img6{
+    margin-left:500px;
+    margin-top:-700px;
   }
   .me3{
    
@@ -651,8 +660,8 @@
   
   
   .meimge4{
-    margin-top: 120px;
-    margin-left: 1300px;
+    margin-top: 55px;
+    margin-left: 1120px;
     z-index: -1;
     display: flex;
    
@@ -735,13 +744,19 @@
   
   
   .container3{
-  height: 29vh;
-  background-color: rgb(199, 26, 26);
+  height: 88vh;
+  background-color:red;
   display: flex;
-  margin-top: -420px;
+  margin-top:-165px;
+  
   }
-  
-  
+  .img7{
+margin-left:0vw;
+  }
+  .img8{
+    margin-left:0vw;
+
+  }
   
   
   
@@ -844,9 +859,38 @@
     margin-top: 0.35%;
     margin-left: -0.5%;
   }
-  
-  
-  
+  .ppos2{
+margin-left:-72.5vw;
+color:black;
+margin-top:20vh;
+font-size:3vw;
+  }
+  .ppos3{
+margin-left:0vw;
+color:white;
+font-size:3vw;
+margin-top:20vh;
+  }
+  .ppos4{
+    margin-left:-54.4vw;
+    color:black;
+    margin-top:30vh;
+    font-size:3vw;
+  }
+.ppos5{
+ margin-left:0vw;
+color:white;
+margin-top:30vh;
+}
+.ppos6{
+margin-left:-20vw;
+color:black;
+}
+.ppos7{
+margin-left:-20vw;
+color:white;
+}
+                                          
   
   
   
