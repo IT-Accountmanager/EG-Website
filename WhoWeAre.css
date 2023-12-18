@@ -1,276 +1,72 @@
-
-/* .container3{
-    width:100vw;
-} */
-
-/*.container8{
-    margin-top:4vw;
-    margin-left:0%;
-    display:flex;
-    height:2vw;
-} */
 *{
-    margin:0vw;
-    padding:0vw;
-}
-
-
-/* .videopos{
-    margin-top:-20vw;
-    
-}
-.vppos{
-    z-index:0;
-    position:absolute;
-    margin-top:-100vw;
-    color:white;
-    font-size: 13vw;
-    margin-left:80vw;
-}
-.info1{
-    animation: rotates 1.6s linear;
+    margin: 0;
+    padding: 0;
   }
-  @keyframes rotates{
-    from{transform: translateX(-100vw);}
-    to{ transform: translateX(0vw); }
-  } */
-.ppos2{
-    padding-top:2vh;
-    padding-left:2vw;
-}
-.ppos3{
-    margin-top:-50vh;
-    color:white;
-    padding-left:4vw;
-    font-size:1.8vw;
-    line-height:5.5vh;
-}
-
-.hpos4{
-    padding-top:13vh;
-    padding-left:4vw;
-    color:white;
-    font-size:1.3vw;
-}
-.circle{
-    background-image: linear-gradient(to top, rgb(58, 214, 201) , rgba(223, 220, 53, 0.986));
-}
-
- /* #rectangle{
-    width:52vw;
-    height:50vh;
-    border-style:solid;
-    border-width:2vw;
-    
-    background-color:white;
-} */
-/* #rectangle1{
-width:10vw;
-height:3vw;
-border-style:solid;
-    border-width:2vw;
-} */
-
-
-/*.ppos14{
-    padding-left:2vw;
-    font-size:4vw;
-    line-height:5vh;
-}
-.hpos8{
-    padding-left:2vw;
-    padding-top:2vh;
-    font-size:5vw;
-}
-.ppos15{
-    padding-left:2vw;
-    font-size:5vw;
-    line-height:5vh;
-}
-#circle {
-    width: 10vw;
-    height: 10vh;
-    -webkit-border-radius:5vw;
-    -moz-border-radius:5vw;
-    border-radius:5vw;
-    border-width:2vw;
-    border-style:solid;
-    border-color:blue;
-    
-  }
-  .hpos9{
-    margin-left:150vw;
-    font-size:5vw;
-  } */
-  
-.container4{
-    margin-top:-1.6vh;
-    margin-left:-0.4vw;
-    width:99.1vw;
-}
-.container5{
-    background-image: linear-gradient(to right, rgba(157, 165, 170, 0.904) , rgb(0, 238, 255));
-    height:2.6vh;
-    margin-left:-0.4vw;
-    width:99.1vw;
-}
- .container6{
-    height:86.6vh;
-    background-color:white;
-    width:99.1vw;
-    margin-left:-0.4vw;
-}
-
-/* .container10{
-    height:3vh;
-} */
-
-
-
-
-
-
-
-.divstyle{
+  .divstyle{
     background-image: linear-gradient(to right, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
       height:48px;
        position: fixed;
        width:100%;
        z-index: 1;
        display: flex;
-       margin-top: -10px;
-       margin-left:-0.4vw;
-}
-.cc{
+  }
+  .cc{
     text-decoration: none;
- color: black;
+  color: black;
     margin: 1.6vh;
-    margin-left: 2vw;
+    margin-left: 2.2vw;
     font-size: 25px;
-    margin-top: -30px;
-}
-.ne{
-text-decoration: none;
-margin-left:11vw;
-margin-top: -5vh;
-font-size: 25px;
-}
-.In{
-text-decoration: none;
-margin-left: 25vw;
-margin-top: -5vh;
-font-size: 25px;
-}
-.world{
-    margin-left: 1610px;
-    margin-top: -65px;
+  }
+  .ne{
+  text-decoration: none;
+  margin-left:11vw;
+  margin-top: -4.75vh;
+  font-size: 25px;
+  }
+  .In{
+  text-decoration: none;
+  margin-left: 25vw;
+  margin-top: -3.25vh;
+  font-size: 25px;
+  }
+  .world{
+    margin-left: 1325px;
+    margin-top: -38px;
     font-size: 30px;
-}
-.globelogo{
-    margin-left: 1580px;
+  }
+  .globelogo{
+    margin-left: 1290px;
     top: 0;
-    margin-top: -49.5px;
+    margin-top: -29.5px;
     font-size: 32px;
-}
-.searchlogo{
-    margin-left: 1750px;
-    margin-top: -60px;
+  }
+  .searchlogo{
+    margin-left: 1470px;
+    margin-top: -30px;
     font-size: 27px;
-}
-
-
-
-
-.menu-header{
-    background-color:rgb(253, 250, 250);
-    text-align: right;
-    position:fixed;
-    width:99.1vw;
-    height:65px;
-    margin-top:-35px;
-    z-index:1;
-    }
-    
-
-
-.what {
-    margin-left:-5%;
-     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-     font-size: 1.3rem;
-     font-weight: bold;
-  top: 100px;
- margin-top: -8%;
-    
-     /* width: 150%; */
-}
-.Whos{
-    margin-top: -8%;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.3rem;
-    font-weight: bold;
-}
-.ser{
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
-    font-size: 21px;
-    font-weight: bold;
-     
-    margin-top: -8%;
-}
-.Insights{
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-     font-size: 21px;
-     font-weight: bold;
-     margin-left: -21px;
-     margin-top: -8%;
-}
-.getin{
-   margin-top: -8%;
-   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   font-size: 21px;
-   font-weight: bold;
-}
-
-
-.styo:hover{
-    color:rgb(70, 70, 73);
-    transform: scale(1.25);
-    }
-
-
-
-
-
-
-
-
-
-
-
-.enimg{
-   
-    text-align: center;
-    margin-left: -80vw;
-    margin-top: 10px;
-}
-.gg{
-    margin-left: 8vw;
-    margin-top: 20px;
-    margin-bottom: -20px;
-width: 0%;
-font-size: 25px;
-text-decoration: none;
-color: #fff;
-}
-.lk{
-  margin-top: -50px;
-  margin-left: 28vw;
-}
-
-.menu-bar{
+  }
+  
+  .dot1{
+  margin-top: -18px;
+  font-size: 10px;
+  margin-left: 85px;
+  }
+  .dot2{
+  font-size: 10px;
+  margin-left: 165px;
+  margin-top: -17px;
+  }
+  
+  
+  
+  
+  
+  .menu-bar{
     margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 2%;
     text-decoration: white;
-    width:98vw;
-   margin-left:-0.4vw;
+    width: 100%;
     text-align: right;
     display: flex;
   }
@@ -292,7 +88,7 @@ color: #fff;
   .menu-bar ul li a
   {
   text-decoration: none;
-  color:#3a353f;
+  color:#69666c;
   }
   .active, .menu-bar ul li
   {
@@ -405,11 +201,669 @@ color: #fff;
   background-color:#784aac;
   opacity:0.9;
   }
-.hpos1{
-    margin-top:4vh;
-}
+  .menu-header{
+  background-color:white;
+  text-align: right;
+  position:fixed;
+  width:100vw;
+  height:65px;
+  margin-top:48px;
+  z-index:1;
+  }
+  .what {
+    margin-left:35%;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 1.3rem;
+     font-weight: bold;
+  top: -100px;
+  margin-top: 32%;
+   
+     /* width: 150%; */
+  }
+  .Whos{
+    margin-top: 32%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .ser{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 21px;
+    font-weight: bold;
+     
+    margin-top: 32%;
+  }
+  .Insights{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 21px;
+     font-weight: bold;
+     margin-left: -21px;
+     margin-top: 32%;
+  }
+  .getin{
+   margin-top: 32%;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 21px;
+   font-weight: bold;
+  }
+  
+  .styo:hover{
+  color:rgb(70, 70, 73);
+  transform: scale(1.25);
+  }
+  
+  
+  
+  .enimg{
+   
+    text-align: center;
+    margin-left: 30vw;
+    margin-top: 10vh;
+  }
+  .gg{
+    margin-left: 5vw;
+    margin-top: 22px;
+    margin-bottom: -32px;
+  width: 0%;
+  font-size: 25px;
+  text-decoration: none;
+  color: #fff;
+  }
+  .lk{
+  margin-top: -50px;
+  margin-left: 32vw;
+  }
+  .text
+  {
+    margin-top: -10px;
+  
+  }
+  
+  
+  .container{
+    background-image:url(hm.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:49vw;
+    margin-top: -10px;
+  }
+  .paragraph{
+    display: flex;
+  }
+  .para1{
+    margin-top: 200px;
+    color: #fff;
+    font-size: 54px;
+    font-family: sans-serif;
+    margin-left: 3%;
+    width: 60vw;
+    font-weight: bold;
+   
+  }
+  .para2{
+    margin-top: 280px;
+    color: #fff;
+    font-size: 54px;
+    font-family: sans-serif;
+    margin-left: -33.6%;
+    width: 60vw;
+    font-weight: bold;
+  }
+  .para3{
+    margin-top: 380px;
+    color: #fff;
+    font-size: 26px;
+    font-family: sans-serif;
+    margin-left: -33.5%;
+    width: 58vw;
+  }
+  .let{
+    font-size: 120px;
+    margin-top: -120px;
+  }
+  /* .circle {
+    width: 280px;
+    height: 280px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 165px;
+    margin-left: -110%;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  } */
+  .circle{
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  }
+  .lets{
+    font-size: 120px;
+    margin-top: -120px;
+  }
+  /* .circle2 {
+    width: 280px;
+    height: 280px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 360px;
+    margin-left: -265px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+    border: black;
+  } */
+  
+  .container1{
+    background-image: linear-gradient(to right, rgba(194, 206, 207, 0.904) , rgb(70, 173, 199));
+    height:12vh;
+    
+  
+  }
+  .ppos1{
+    margin-left:3vw;
+    font-size:2vw;
+    padding-top:1.5vh;
+    color:#717171
+  }
+  .numbertext {
+    color: #221f1f;
+    font-size: 22px;
+    margin-left: 420px;
+    position: absolute;
+    margin-top: -110px;
+  }
 
+  .container2{
+  height: 99vh;
+  background-color: white;
+  display: flex;
+  margin-top: -40px;
+  }
+  
+  
+  .slideshow-container {
+    height: 90vh;
+    position: relative;
+    margin: auto;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -52px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+                                                             /* first slide image and text */
+  .text {
+    color:black;
+    font-size: 28px;
+  font-family: sans-serif;
+    position: absolute;
+   margin-top: -480px;
+   margin-left: 220px;
+    width: 50%;
+    text-align: justify;
+   
+  
+  }
+  .me{
+    color: rgb(116, 110, 110);
+    /* margin-left: 600px; */
+    /* margin-top: -1066px; */
+    font-size: 2vw;
+    font-family: sans-serif;
+  }
+  
+  .co{
+  /* margin-left: 880px; */
+  /* margin-top: -28px; */
+  font-size: 24px;
+  font-family: sans-serif;
+  }
+  .int{
+    /* margin-left: 1100px; */
+    margin-top: -26px;
+    font-size: 24px;
+    font-family: sans-serif;
+  }
+  
+  
+  
+  
+  
+  .meimge1{
+    margin-top: 120px;
+    margin-left: 1310px;
+    z-index: -1;
+    display: flex;
+   
+  }
+  .rd {
+  width:10%;
+  height:30px;
+  margin-top: 300px;
+  margin-left: 200px;
+  border-radius: 30px;
+  background-color:#FFFFFF;
+  text-align: center;
+  border:2px solid;
+  border-color: rgba(0, 255, 0, 0.5);  
+  }
+                                                        /* second slide image and text */
+  .text1 {
+    color:black;
+    font-size: 28px;
+  font-family: sans-serif;
+    position: absolute;
+   margin-top: -480px;
+   margin-left: 240px;
+    width: 50%;
+    text-align: justify;
+   
+  
+  }
+  .me{
+    color: rgb(116, 110, 110);
+    margin-left: 470px;
+    margin-top: -566px;
+    font-size: 24px;
+    font-family: sans-serif;
+  }
+  
+  .co{
+  margin-left: 780px;
+  margin-top: -28px;
+  font-size: 24px;
+  font-family: sans-serif;
+  }
+  .int{
+    margin-left: 990px;
+    margin-top: -26px;
+    font-size: 24px;
+    font-family: sans-serif;
+  }
+  
+  
+  
+  
+  
+  .meimge2{
+    margin-top: 120px;
+    margin-left: 1300px;
+    z-index: -1;
+    display: flex;
+   
+  }
+  .rd {
+  width:10%;
+  height:30px;
+  margin-top: 300px;
+  margin-left: 200px;
+  border-radius: 30px;
+  background-color:#FFFFFF;
+  text-align: center;
+  border:2px solid;
+  border-color: rgba(0, 255, 0, 0.5);  
+  }
+  
+  
+  
+  
+                                        /* ---------------------------third slides css------------------------ */
+  
+  .text2 {
+    color:black;
+    font-size: 28px;
+  font-family: sans-serif;
+    position: absolute;
+   margin-top: -480px;
+   margin-left: 240px;
+    width: 50%;
+    text-align: justify;
+   
+  
+  }
+  .me2{
+   
+    margin-left: 470px;
+    margin-top: -570px;
+    font-size: 24px;
+    font-family: sans-serif;
+  }
+  
+  .co2{
+    color: rgb(116, 110, 110);
+  margin-left: 780px;
+  margin-top: -28px;
+  font-size: 24px;
+  font-family: sans-serif;
+  }
+  .int2{
+    margin-left: 990px;
+    margin-top: -26px;
+    font-size: 24px;
+    font-family: sans-serif;
+  }
+  
+  
+  
+  
+  
+  .meimge3{
+    margin-top: 120px;
+    margin-left: 1300px;
+    z-index: -1;
+    display: flex;
+   
+  }
+  
+  
+  
+                                                    /* ---------------------------fourth slides css------------------------ */
+  
+  .text3 {
+    color:black;
+    font-size: 28px;
+  font-family: sans-serif;
+    position: absolute;
+   margin-top: -480px;
+   margin-left: 240px;
+    width: 50%;
+    text-align: justify;
+   
+  
+  }
+  .me3{
+   
+    margin-left: 470px;
+    margin-top: -570px;
+    font-size: 24px;
+    font-family: sans-serif;
+  }
+  
+  .co3{
+   
+  margin-left: 780px;
+  margin-top: -28px;
+  font-size: 24px;
+  font-family: sans-serif;
+  }
+  .int3{
+    color: rgb(116, 110, 110);
+    margin-left: 990px;
+    margin-top: -26px;
+    font-size: 24px;
+    font-family: sans-serif;
+  }
+  
+  
+  
+  
+  
+  .meimge4{
+    margin-top: 120px;
+    margin-left: 1300px;
+    z-index: -1;
+    display: flex;
+   
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
-
-
-
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+   margin-top: 100px;
+   margin-left: -200px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+  .img1{
+    margin-top: 30px;
+    margin-left:-20vh
+  }
+  .img2{
+    margin-top: 30px;
+    margin-left:-20vh
+  }
+  .img3{
+    margin-top: 30px;
+    margin-left:-20vh
+  }
+  .img4{
+    margin-top: 30px;
+    margin-left:-20vh
+  }
+  
+  
+  
+  
+  
+  /* .mySlides fade{
+    margin-top: -20px;
+  } */
+  
+  /* container-3 */
+  
+  
+  
+  .container3{
+  height: 29vh;
+  background-color: rgb(199, 26, 26);
+  display: flex;
+  margin-top: -420px;
+  }
+  
+  
+  
+  
+  
+  /* container-4 */
+  
+  
+  
+  /* .container4{
+  height: 99vh;
+  background-color: white;
+  display: flex;
+  margin-top: -150px;
+  } */
+  
+  
+  
+  
+  
+  /* container-5 */
+  
+  
+  
+  /* .container5{
+  height: 99vh;
+  background-color: white;
+  display: flex;
+  margin-top: -120px;
+  } */
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .footer{
+    height: 50px;
+    margin-top: 1178px;
+    display: flex;
+    background-color:rgb(188, 170, 170);
+    z-index: 1;
+  }
+  .fp{
+    margin-top: 18px;
+   margin-left: 1.5%;
+   font-size: 20px;
+  }
+  .fc{
+    margin-left: 69%;
+    margin-top:10px ;
+  }
+  .eimg{
+    margin-left: -90%;
+    margin-top: 6px;
+  }
+  .lin{
+    margin-top: 5px;
+    margin-left: 200px;
+  }
+  .face{
+    margin-top: 5px;
+   margin-left: 0.6%;
+  }
+  .inst{
+    margin-top: 5px;
+   margin-left: 0.9%;
+  }
+  .gm{
+    margin-top: 5px;
+    margin-left: -36%;
+  }
+  .uu{
+    margin-top: 0.35%;
+    margin-left: -0.5%;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
