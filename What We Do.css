@@ -537,7 +537,7 @@ color: #fff;
 }
 
 .container5{
-  height: 110vh;
+  height: 84vh;
   display: flex;
   background-image:url(ppc5.PNG);
   position: cover;
@@ -666,7 +666,7 @@ color: #fff;
 .eds{
   font-weight:normal;
   font-family: sans-serif;
-  margin-top: 40px;
+  margin-top: 38px;
   margin-left: -68px;
   width: 25vw;
 
@@ -689,13 +689,13 @@ color: #fff;
   font-weight:normal;
   font-family: sans-serif;
   width: 25vw;
-  margin-top: 132px;
+  margin-top: 130px;
   margin-left: -383px;
 }
 .angular{
   font-weight:normal;
   font-family: sans-serif;
-  margin-top: 160px;
+  margin-top: 157px;
   margin-left: -385px;
   width: 25vw;
 }
@@ -703,20 +703,20 @@ color: #fff;
   font-weight:normal;
   font-family: sans-serif;
   width: 25vw;
-  margin-top: 190px;
+  margin-top: 185px;
   margin-left: -385px;
 }
 .contractab{
   font-weight:normal;
   font-family: sans-serif;
-  margin-top: 220px;
+  margin-top: 212px;
   margin-left: -383px;
   width: 25vw;
 }
 .contractus{
   font-weight:normal;
   font-family: sans-serif;
-  margin-top: 250px;
+  margin-top: 240px;
   margin-left: -380px;
   width: 25vw;
 }
@@ -770,34 +770,129 @@ display: flex;
 }
 
 .locn{
-margin-top: 360px;
-margin-left: 20px;
+margin-top: 345px;
+margin-left: 10px;
 font-size: 30px;
 font-weight: bold;
 }
 .engl{
-  margin-top: 400px;
+  margin-top: 380px;
   margin-left: -140px;
 }
 
 .manjira{
-  margin-top: 420px;
-  margin-left: -260px;
+  margin-top: 400px;
+  margin-left: -280px;
 }
 .floor{
-  margin-top: 440px;
+  margin-top: 420px;
   margin-left: -220px;
 }
 .kphb{
-  margin-top: 459px;
+  margin-top: 439px;
   margin-left: -160px;
 }
 
+.tn{
+  display: flex;
+}
+.engltn{
+  margin-top: 480px;
+  margin-left: -224px;
+}
 
+.manjiratn{
+  margin-top: 500px;
+  margin-left: -270px;
+}
+.floortn{
+  margin-top: 520px;
+  margin-left: -220px;
+}
+.kphbtn{
+  margin-top: 539px;
+  margin-left: -160px;
+}
+.pune{
+  display: flex;
+}
+.englpn{
+  margin-top: 380px;
+  margin-left: 275px;
+}
 
+.manjirapn{
+  margin-top: 400px;
+  margin-left: -260px;
+}
+.floorpn{
+  margin-top: 420px;
+  margin-left: -195px;
+}
+.kphbpn{
+  margin-top: 439px;
+  margin-left: -160px;
+}
+.eur{
+  display: flex;
+}
+.engleu{
+  margin-top: 480px;
+  margin-left: -250px;
+}
 
+.manjiraeu{
+  margin-top: 500px;
+  margin-left: -250px;
+}
+.flooreu{
+  margin-top: 520px;
+  margin-left: -220px;
+}
+.kphbeu{
+  margin-top: 539px;
+  margin-left: -160px;
+}
+.bng{
+  display: flex;
+}
+.englbng{
+  margin-top: 380px;
+  margin-left: 220px;
+}
 
+.manjirabng{
+  margin-top: 400px;
+  margin-left: -280px;
+}
+.floorbng{
+  margin-top: 420px;
+  margin-left: -265px;
+}
+.kphbbng{
+  margin-top: 439px;
+  margin-left: -154px;
+}
+.srl{
+  display: flex;
+}
+.englsrl{
+  margin-top: 480px;
+  margin-left: -168px;
+}
 
+.manjirasrl{
+  margin-top: 500px;
+  margin-left: -225px;
+}
+.floorsrl{
+  margin-top: 520px;
+  margin-left: -220px;
+}
+.kphbsrl{
+  margin-top: 539px;
+  margin-left: -160px;
+}
 
 
 
