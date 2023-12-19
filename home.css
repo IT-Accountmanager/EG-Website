@@ -95,35 +95,35 @@
     text-decoration: none;
  color: black;
     margin: 1.6vh;
-    margin-left: 2vw;
+    margin-left: -0.9vw;
     font-size: 25px;
     margin-top: -30px;
 }
 .ne{
 text-decoration: none;
-margin-left:11vw;
+margin-left:8vw;
 margin-top: -5vh;
 font-size: 25px;
 }
 .In{
 text-decoration: none;
-margin-left: 25vw;
+margin-left: 21vw;
 margin-top: -5vh;
 font-size: 25px;
 }
 .world{
-    margin-left: 1610px;
+    margin-left: 1615px;
     margin-top: -65px;
     font-size: 30px;
 }
 .globelogo{
     margin-left: 1580px;
     top: 0;
-    margin-top: -49.5px;
+    margin-top: -54px;
     font-size: 32px;
 }
 .searchlogo{
-    margin-left: 1750px;
+    margin-left: 1760px;
     margin-top: -60px;
     font-size: 27px;
 }
@@ -199,7 +199,7 @@ font-size: 25px;
 .enimg{
    
     text-align: center;
-    margin-left: -80vw;
+    margin-left: -80.7vw;
     margin-top: 10px;
 }
 .gg{

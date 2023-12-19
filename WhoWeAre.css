@@ -13,39 +13,38 @@
   .cc{
     text-decoration: none;
   color: black;
-    margin: 1.6vh;
-    margin-left: 2.2vw;
+    margin-top: 0.9vh;
+    margin-left:1.2vw;
     font-size: 25px;
   }
   .ne{
   text-decoration: none;
-  margin-left:11vw;
-  margin-top: -4.75vh;
+  margin-left:10vw;
+  margin-top: -2.2vh;
   font-size: 25px;
   }
   .In{
   text-decoration: none;
-  margin-left: 25vw;
-  margin-top: -3.25vh;
+  margin-left: 23vw;
+  margin-top: -2.3vh;
   font-size: 25px;
   }
-  .world{
+  /* .world{
     margin-left: 1325px;
-    margin-top: -38px;
+    margin-top: 2px;
     font-size: 30px;
-  }
-  .globelogo{
+  } */
+  /* .globelogo{
     margin-left: 1290px;
-    top: 0;
-    margin-top: -29.5px;
-    font-size: 32px;
-  }
-  .searchlogo{
+    margin-top: 80.5px;
+    font-size: 192px;
+  } */
+  /* .searchlogo{
     margin-left: 1470px;
-    margin-top: -30px;
+    margin-top: 20px;
     font-size: 27px;
   }
-  
+   */
   .dot1{
   margin-top: -18px;
   font-size: 10px;
@@ -257,12 +256,12 @@
   .enimg{
    
     text-align: center;
-    margin-left: -58vw;
+    margin-left: -60.4vw;
     margin-top: -2vh;
   }
   .gg{
-    margin-left: -15vw;
-    margin-top: 22px;
+    margin-left: -10.6vw;
+    margin-top: 11px;
     margin-bottom: -32px;
   width: 0%;
   font-size: 25px;
