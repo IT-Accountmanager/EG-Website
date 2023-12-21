@@ -83,10 +83,10 @@
 
 .divstyle{
     background-image: linear-gradient(to right, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
-      height:48px;
+      /* height:9.5vh; */
        position: fixed;
        width:100%;
-       z-index: 1;
+       z-index:1;
        display: flex;
        margin-top: -10px;
        margin-left:-0.4vw;
@@ -101,19 +101,19 @@
 }
 .ne{
 text-decoration: none;
-margin-left:8vw;
-margin-top: -5vh;
+margin-left:7.32vw;
+margin-top: -4.9vh;
 font-size: 25px;
 }
 .In{
 text-decoration: none;
-margin-left: 21vw;
+margin-left: 19.85vw;
 margin-top: -5vh;
 font-size: 25px;
 }
 .world{
     margin-left: 1615px;
-    margin-top: -65px;
+    margin-top: -63px;
     font-size: 30px;
 }
 .globelogo{
@@ -123,8 +123,8 @@ font-size: 25px;
     font-size: 32px;
 }
 .searchlogo{
-    margin-left: 1760px;
-    margin-top: -60px;
+    margin-left: 1758px;
+    margin-top: -60.9px;
     font-size: 27px;
 }
 
@@ -137,7 +137,7 @@ font-size: 25px;
     position:fixed;
     width:99.1vw;
     height:65px;
-    margin-top:-35px;
+    margin-top:-32px;
     z-index:1;
     }
     

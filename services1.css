@@ -212,7 +212,7 @@
   z-index:1;
   }
   .what {
-    margin-left:-6.3%;
+    margin-left:-6.33%;
      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      font-size: 1.3rem;
      font-weight: bold;
@@ -222,7 +222,7 @@
      /* width: 150%; */
   }
   .Whos{
-    margin-top: -3%;
+    margin-top: -3.5%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.3rem;
     font-weight: bold;
@@ -232,17 +232,17 @@
     font-size: 21px;
     font-weight: bold;
      
-    margin-top: -3%;
+    margin-top: -3.5%;
   }
   .Insights{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      font-size: 21px;
      font-weight: bold;
      margin-left: -21px;
-     margin-top: -3%;
+     margin-top: -3.5%;
   }
   .getin{
-   margin-top: -3%;
+   margin-top: -3.5%;
    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 21px;
    font-weight: bold;
@@ -408,35 +408,36 @@
     background-color: rgba(0,0,0,0.8);
   }
   
-  /* Caption text */
+  /* Caption text                                                               first slide css */
   .text1 {
     color:black;
     font-size: 28px;
   font-family: sans-serif;
     position: absolute;
-   margin-top: -480px;
+   margin-top: -600px;
    margin-left: 100px;
     width: 50%;
     text-align: justify;
+    line-height:40px;
    
   
   }
   .me{
     color: rgb(116, 110, 110);
-    margin-left: 470px;
-    margin-top: -566px;
+    margin-left: 570px;
+    margin-top: -766px;
     font-size: 24px;
     font-family: sans-serif;
   }
   
   .co{
-  margin-left: 780px;
+  margin-left: 890px;
   margin-top: -28px;
   font-size: 24px;
   font-family: sans-serif;
   }
   .int{
-    margin-left: 990px;
+    margin-left: 1120px;
     margin-top: -26px;
     font-size: 24px;
     font-family: sans-serif;
@@ -447,22 +448,24 @@
   
   
   .meimge{
-    margin-top: 120px;
-    margin-left: 900px;
+    margin-top: 200px;
+    margin-left: 1074px;
     z-index: -1;
     display: flex;
+    width:350px;
+    height:350px;
    
   }
   .rd {
   width:10%;
   height:30px;
-  margin-top: 300px;
-  margin-left: 200px;
+  margin-top: 100px;
+  margin-left: 800px;
   border-radius: 30px;
-  background-color:#FFFFFF;
+  /* background-color:#FFFFFF; */
   text-align: center;
   border:2px solid;
-  border-color: rgba(0, 255, 0, 0.5);  
+  border-color:rgba(33, 55, 253, 0.5); 
   }
   
   
@@ -475,30 +478,31 @@
     font-size: 28px;
   font-family: sans-serif;
     position: absolute;
-   margin-top: -480px;
+   margin-top: -600px;
    margin-left: 100px;
     width: 50%;
     text-align: justify;
+    line-height:40px;
    
   
   }
   .me2{
    
-    margin-left: 470px;
-    margin-top: -570px;
+    margin-left: 570px;
+    margin-top: -766px;
     font-size: 24px;
     font-family: sans-serif;
   }
   
   .co2{
     color: rgb(116, 110, 110);
-  margin-left: 780px;
+  margin-left: 890px;
   margin-top: -28px;
   font-size: 24px;
   font-family: sans-serif;
   }
   .int2{
-    margin-left: 990px;
+    margin-left: 1120px;
     margin-top: -26px;
     font-size: 24px;
     font-family: sans-serif;
@@ -509,10 +513,12 @@
   
   
   .meimge2{
-    margin-top: 120px;
-    margin-left: 900px;
+    margin-top: 200px;
+    margin-left: 1050px;
     z-index: -1;
     display: flex;
+    width:350px;
+    height:350px;
    
   }
   
@@ -525,31 +531,30 @@
     font-size: 28px;
   font-family: sans-serif;
     position: absolute;
-   margin-top: -480px;
+   margin-top: -600px;
    margin-left: 100px;
     width: 50%;
     text-align: justify;
+    line-height:40px;
    
   
   }
   .me3{
-   
-    margin-left: 470px;
-    margin-top: -570px;
+    margin-left: 570px;
+    margin-top: -766px;
     font-size: 24px;
     font-family: sans-serif;
   }
   
   .co3{
-   
-  margin-left: 780px;
-  margin-top: -28px;
+    margin-left: 890px;
+    margin-top: -28px;
   font-size: 24px;
   font-family: sans-serif;
   }
   .int3{
     color: rgb(116, 110, 110);
-    margin-left: 990px;
+    margin-left: 1120px;
     margin-top: -26px;
     font-size: 24px;
     font-family: sans-serif;
@@ -560,10 +565,12 @@
   
   
   .meimge3{
-    margin-top: 120px;
-    margin-left: 900px;
+    margin-top: 200px;
+    margin-left: 1050px;
     z-index: -1;
     display: flex;
+    width:860px;
+    height:350px;
    
   }
   
@@ -589,9 +596,9 @@
   .numbertext {
     color: #221f1f;
     font-size: 22px;
-    margin-left: 1400px;
+    margin-left: 1800px;
     position: absolute;
-    margin-top: 60px;
+    margin-top: 20px;
   }
   
   /* The dots/bullets/indicators */
@@ -622,13 +629,13 @@
     to {opacity: 1}
   }
   .img1{
-    margin-top: -30px;
+    margin-top: -40px;
   }
   .img2{
-    margin-top: -30px;
+    margin-top: -40px;
   }
   .img3{
-    margin-top: -30px;
+    margin-top: -40px;
   }
   
   
