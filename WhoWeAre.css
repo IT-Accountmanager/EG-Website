@@ -818,46 +818,7 @@ margin-left:0vw;
   
   
   
-  .footer{
-    height: 50px;
-    margin-top: 1178px;
-    display: flex;
-    background-color:rgb(188, 170, 170);
-    z-index: 1;
-  }
-  .fp{
-    margin-top: 18px;
-   margin-left: 1.5%;
-   font-size: 20px;
-  }
-  .fc{
-    margin-left: 69%;
-    margin-top:10px ;
-  }
-  .eimg{
-    margin-left: -90%;
-    margin-top: 6px;
-  }
-  .lin{
-    margin-top: 5px;
-    margin-left: 200px;
-  }
-  .face{
-    margin-top: 5px;
-   margin-left: 0.6%;
-  }
-  .inst{
-    margin-top: 5px;
-   margin-left: 0.9%;
-  }
-  .gm{
-    margin-top: 5px;
-    margin-left: -36%;
-  }
-  .uu{
-    margin-top: 0.35%;
-    margin-left: -0.5%;
-  }
+  
   .ppos2{
 margin-left:-72.5vw;
 color:black;
@@ -918,7 +879,45 @@ font-size:3vw;
     margin-top:-41px;
   }      
   
-  
+  .footer{
+    height: 60px;
+    margin-top: 699px;
+    display: flex;
+    background-color: bisque;
+  }
+  .fp{
+    margin-top: 18px;
+   margin-left: 1.5%;
+   font-size: 20px;
+  }
+  .fc{
+    margin-left: 74.5%;
+    margin-top:10px ;
+  }
+  .eimg{
+    margin-left: -93.7%;
+    margin-top: 7px;
+  }
+  .lin{
+    margin-top: 9.5px;
+    margin-left: 385px;
+  }
+  .face{
+    margin-top: 9.5px;
+   margin-left: 2%;
+  }
+  .inst{
+    margin-top: 9.5px;
+   margin-left: 2.2%;
+  }
+  .gm{
+    margin-top: 9.5px;
+    margin-left: -27%;
+  }
+  .uu{
+    margin-top: 9.5px;
+    margin-left: 1.6%;
+  }
   
   
   

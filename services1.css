@@ -720,11 +720,10 @@
   
   
   .footer{
-    height: 50px;
-    margin-top: -38px;
+    height: 60px;
+    margin-top: 699px;
     display: flex;
-    background-color:rgb(188, 170, 170);
-    z-index: 1;
+    background-color: bisque;
   }
   .fp{
     margin-top: 18px;
@@ -732,32 +731,32 @@
    font-size: 20px;
   }
   .fc{
-    margin-left: 69%;
+    margin-left: 74.5%;
     margin-top:10px ;
   }
   .eimg{
-    margin-left: -90%;
-    margin-top: 6px;
+    margin-left: -93.7%;
+    margin-top: 7px;
   }
   .lin{
-    margin-top: 5px;
-    margin-left: 200px;
+    margin-top: 9.5px;
+    margin-left: 385px;
   }
   .face{
-    margin-top: 5px;
-   margin-left: 0.6%;
+    margin-top: 9.5px;
+   margin-left: 2%;
   }
   .inst{
-    margin-top: 5px;
-   margin-left: 0.9%;
+    margin-top: 9.5px;
+   margin-left: 2.2%;
   }
   .gm{
-    margin-top: 5px;
-    margin-left: -36%;
+    margin-top: 9.5px;
+    margin-left: -27%;
   }
   .uu{
-    margin-top: 0.35%;
-    margin-left: -0.5%;
+    margin-top: 9.5px;
+    margin-left: 1.6%;
   }
   
   
