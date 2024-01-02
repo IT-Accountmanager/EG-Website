@@ -200,11 +200,11 @@ font-size: 25px;
    
     text-align: center;
     margin-left: -80.7vw;
-    margin-top: 10px;
+    margin-top: 8.5px;
 }
 .gg{
-    margin-left: 8vw;
-    margin-top: 20px;
+    margin-left: 7.96vw;
+    margin-top: 18.8px;
     margin-bottom: -20px;
 width: 0%;
 font-size: 25px;
@@ -235,14 +235,14 @@ color: #fff;
   width: 8.21vw;
   left: -8px;
   margin: 1.04vw;
-  margin-top:-32px;
+  margin-top:-34.5px;
   padding: 4.21vw 0vw 0vw 0vw;
   position: relative;
   }
   .menu-bar ul li a
   {
   text-decoration: none;
-  color:#3a353f;
+  color:black;
   }
   .active, .menu-bar ul li
   {

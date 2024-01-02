@@ -14,47 +14,48 @@
     text-decoration: none;
  color: black;
     margin: 1.6vh;
-    margin-left: 2.2vw;
+    margin-left: 1.2vw;
     font-size: 25px;
+    margin-top:8.5px;
 }
 .ne{
 text-decoration: none;
-margin-left:11vw;
-margin-top: -4.75vh;
+margin-left:9.4vw;
+margin-top: -2.3vh;
 font-size: 25px;
 }
 .In{
 text-decoration: none;
-margin-left: 25vw;
-margin-top: -3.25vh;
+margin-left: 21.95vw;
+margin-top: -2.1vh;
 font-size: 25px;
 }
 .world{
-    margin-left: 1325px;
+    margin-left: 1655px;
     margin-top: -38px;
     font-size: 30px;
 }
 .globelogo{
-    margin-left: 1290px;
+    margin-left: 1620px;
     top: 0;
     margin-top: -29.5px;
     font-size: 32px;
 }
 .searchlogo{
-    margin-left: 1470px;
-    margin-top: -30px;
+    margin-left: 1795.8px;
+    margin-top: -31px;
     font-size: 27px;
 }
 
 .dot1{
-  margin-top: -18px;
+  margin-top: -32px;
   font-size: 10px;
-  margin-left: 85px;
+  margin-left: 107.5px;
 }
 .dot2{
   font-size: 10px;
-  margin-left: 165px;
-  margin-top: -17px;
+  margin-left: 40px;
+  margin-top: 24.5px;
 }
 
 
@@ -89,7 +90,7 @@ font-size: 25px;
   .menu-bar ul li a
   {
   text-decoration: none;
-  color:#69666c;
+  color:black;
   }
   .active, .menu-bar ul li
   {
@@ -212,17 +213,17 @@ margin-top:48px;
 z-index:1;
 }
 .what {
-    margin-left:-5%;
+    margin-left:-6.6%;
      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      font-size: 1.3rem;
      font-weight: bold;
   top: -100px;
- margin-top: -3%;
+ margin-top: -3.73%;
    
      /* width: 150%; */
 }
 .Whos{
-    margin-top: -3%;
+    margin-top: -3.73%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.3rem;
     font-weight: bold;
@@ -232,17 +233,17 @@ z-index:1;
     font-size: 21px;
     font-weight: bold;
      
-    margin-top: -3%;
+    margin-top: -3.73%;
 }
 .Insights{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      font-size: 21px;
      font-weight: bold;
      margin-left: -21px;
-     margin-top: -3%;
+     margin-top: -3.73%;
 }
 .getin{
-   margin-top: -3%;
+   margin-top: -3.73%;
    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 21px;
    font-weight: bold;
@@ -258,12 +259,12 @@ z-index:1;
 .enimg{
    
     text-align: center;
-    margin-left: -80vw;
+    margin-left: -81.5vw;
     margin-top: 20px;
 }
 .gg{
-    margin-left: 5vw;
-    margin-top: 22px;
+    margin-left: 4vw;
+    margin-top: 13px;
     margin-bottom: -32px;
 width: 0%;
 font-size: 25px;

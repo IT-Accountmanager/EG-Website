@@ -87,7 +87,7 @@
   .menu-bar ul li a
   {
   text-decoration: none;
-  color:#69666c;
+  color:black;
   }
   .active, .menu-bar ul li
   {
@@ -210,7 +210,7 @@
   z-index:1;
   }
   .what {
-    margin-left:45%;
+    margin-left:45.5%;
      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      font-size: 1.3rem;
      font-weight: bold;
@@ -257,11 +257,11 @@
    
     text-align: center;
     margin-left: -60.4vw;
-    margin-top: -2vh;
+    margin-top: -1.8vh;
   }
   .gg{
     margin-left: -10.6vw;
-    margin-top: 11px;
+    margin-top: 8px;
     margin-bottom: -32px;
   width: 0%;
   font-size: 25px;
