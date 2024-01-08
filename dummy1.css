@@ -570,62 +570,49 @@ border-style:solid;
     margin-left:150vw;
     font-size:5vw;
   } */
-
   .container9{
     background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
     height:86.6vh;
     margin-left:-0.4vw;
     width:99.5vw;
 }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    .footer{
-      height: 60px;
-      margin-top: 0.2px;
-      display: flex;
-      background-color: bisque;
-    }
-    .fp{
-      margin-top: 18px;
-     margin-left: 1.5%;
-     font-size: 20px;
-    }
-    .fc{
-      margin-left: 74.5%;
-      margin-top:-10px ;
-    }
-    .eimg{
-      margin-left: -93.7%;
-      margin-top: 7px;
-    }
-    .lin{
-      margin-top: 9.5px;
-      margin-left: 385px;
-    }
-    .face{
-      margin-top: 9.5px;
-     margin-left: 2%;
-    }
-    .inst{
-      margin-top: 9.5px;
-     margin-left: 2.2%;
-    }
-    .gm{
-      margin-top: 9.5px;
-      margin-left: -27%;
-    }
-    .uu{
-      margin-top: 9.5px;
-      margin-left: 1.6%;
-    }
-  
-  
-  
+  .footer{
+    height: 60px;
+    margin-top:-9px;
+   
+    display: flex;
+    background-color: bisque;
+  }
+  .fp{
+    margin-top: 18px;
+   margin-left: 1.5%;
+   font-size: 20px;
+  }
+  .fc{
+    margin-left: 74.5%;
+    margin-top:-10px ;
+  }
+  .eimg{
+    margin-left: -93.7%;
+    margin-top: 7px;
+  }
+  .lin{
+    margin-top: 9.5px;
+    margin-left: 385px;
+  }
+  .face{
+    margin-top: 9.5px;
+   margin-left: 2%;
+  }
+  .inst{
+    margin-top: 9.5px;
+   margin-left: 2.2%;
+  }
+  .gm{
+    margin-top: 9.5px;
+    margin-left: -27%;
+  }
+  .uu{
+    margin-top: 9.5px;
+    margin-left: 1.6%;
+  }
