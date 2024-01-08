@@ -370,7 +370,7 @@
     color:#717171
   }
   .numbertext {
-    color: black;
+    color: blue;
     font-size: 22px;
     margin-left: 460px;
     position: absolute;
@@ -425,7 +425,7 @@
                                                              /* first slide image and text */                                                           
                                                              
   .hpos2{
-    margin-top:-700px;
+    margin-top:-650px;
     margin-left:280px;
     color:white;
     font-size:30px;
@@ -438,7 +438,7 @@
     font-size: 28px;
   font-family: sans-serif;
     position: absolute;
-   margin-top: 25px;
+   margin-top: 30px;
    margin-left: 280px;
     width: 50%;
     text-align: justify;
@@ -718,8 +718,8 @@
     margin-left:-20vh
   }
   .img2{
-    margin-top: -41px;
-    margin-left:-20vh
+    margin-top: -45px;
+    margin-left:-22vh
   }
   .img3{
     margin-top: -41px;
@@ -850,7 +850,7 @@ margin-left:0vw;
   
   
   .ppos2{
-margin-left:-72.5vw;
+margin-left:-72.85vw;
 color:black;
 margin-top:25vh;
 font-size:3vw;
@@ -862,7 +862,7 @@ font-size:3vw;
 margin-top:25vh;
   }
   .ppos4{
-    margin-left:-54.4vw;
+    margin-left:-54.7vw;
     color:black;
     margin-top:35vh;
     font-size:3vw;
@@ -889,7 +889,7 @@ font-size:3vw;
   width:11%;
   height:40px;
   margin-top: 600px;
-  margin-left: -215px;
+  margin-left: -225px;
   border-radius: 30px;
   /* background-color:#FFFFFF; */
   text-align: center;
@@ -898,13 +898,13 @@ font-size:3vw;
   }
   .ppos8{
     color:black;
-    margin-left:-82px;
+    margin-left:-80px;
     font-size:35px;
     margin-top:-0.6px;
   }                                         
   .ppos9{
     color:white;
-    margin-left:75px;
+    margin-left:80px;
     font-size:35px;
     margin-top:-41px;
   } 

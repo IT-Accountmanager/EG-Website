@@ -300,13 +300,14 @@ color: #fff;
   .p2{
     margin-top: 560px;
     margin-left: -1000px;
-    font-size: 25px;
+    font-size: 30px;
     font-family: sans-serif;
    width: 800%;
     color: rgb(211, 167, 167);
+    line-height:45px;
   }
   .p3{
-    margin-top:270px;
+    margin-top:250px;
     margin-left:-1023px;
     font-size:70px;
     color: rgb(211, 167, 167);
@@ -473,8 +474,8 @@ color: #fff;
   .paragraph3{
     font-weight:bold;
     margin-top:-40px;
-    margin-left:610px;
-    font-size:34px;
+    margin-left:630px;
+    font-size:30px;
   }
   .container4{
     height: 88vh;

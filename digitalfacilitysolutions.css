@@ -265,18 +265,6 @@ color: #fff;
 }
 
 
-.container{
-    background-image:url(pcp9.PNG);
-    position: cover;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    margin-left: auto;
-  margin-right: auto;
-    height:98.1vh;
-  }
   .aboutt{
     margin-left: 106px;
     color: rgb(247, 244, 244);
@@ -345,6 +333,19 @@ color: #fff;
     border: black;
   }
  
+
+  .container2{
+    background-image:url(ppc1.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:86.1vh;
+  }
   .pp1{
     margin-top: 30px;
     margin-left: 30px;
@@ -457,6 +458,293 @@ color: #fff;
     font-size:60px;
   }
 
+  .paragraph3{
+    font-weight:bold;
+    margin-top:-40px;
+    margin-left:610px;
+    font-size:34px;
+  }
+  .container4{
+    height: 88vh;
+    display: flex;
+    background-image:url(ppc4.PNG);
+      position: cover;
+      background-size: auto;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+  }
+  .hh{
+    height: 12vh;
+    background-color: #c0b9b9;
+    width: 100%;
+    z-index: 0;
+  }
+  .hp{
+    
+    text-align: center;
+    
+  }
+  .h1{
+    margin-top: -430px;
+    margin-left: 260px;
+    font-size: 95px;
+    color:white;
+    
+  }
+  .h2{
+    margin-top: -118px;
+    margin-left: 1235px;
+    font-size: 95px;
+  }
+  .ppos16{
+    margin-top:160px;
+    color:white;
+    margin-left:870px;
+    font-size:30px;
+  }
+  .ppos17{
+    margin-top:-32px;
+    color:black;
+    margin-left:960px;
+    font-size:30px;
+  }
+  
+  .circle5{
+    width: 3vw;
+    height: 6vh;
+    -webkit-border-radius:3vw;
+    -moz-border-radius:3vw;
+    border-radius:3vw;
+    border-width:0.2vw;
+    border-style:solid;
+    border-color:blue;
+    margin-left: 335px;
+    margin-top: 100px;
+  }
+  .arrow{
+    margin-left:30vw;
+    margin-top:-6vh;
+    font-size:2.9vw;
+  }
+  .container5{
+    background-color:lightblue;
+    height:80.2vh;
+    margin-top:-753.5px;
+  }
+  .img4{
+margin-left:0px;
+
+  }
+  .img5{
+margin-left:951.9px;
+margin-top:-741px;
+  }
+  
+  .container6{
+    height: 84vh;
+    display: flex;
+    background-image:url(ppc5.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 4vh;
+  }
+  
+  .leta{
+    font-size: 70px;
+    margin-top: -195px;
+  }
+  .circlea {
+    width: 120px;
+    height: 120px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 90px;
+    margin-left: -1620px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  }
+  .letb{
+    font-size: 70px;
+    margin-top: -192px;
+  }
+  .circleb {
+    width: 120px;
+    height: 120px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 320px;
+    margin-left: -120px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+    border: black;
+  }
+  .getparagraph{
+    display: flex;
+  }
+  .getp{
+    width: 28vw;
+    text-align: justify;
+    margin-left: 150px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 22px;
+  }
+  
+  .box1{
+    margin-left: 70px;
+    margin-top:50px;
+    font-size: 17px;
+    z-index:0;
+    padding-top:-190px;
+  }
+  .man{
+    margin-left:20px;
+    font-family: sans-serif;
+  }
+  .hm{
+    text-decoration:none;
+    color:black;
+    font-weight:normal;
+    margin-left:20px;
+    padding-top:0px;
+    font-family: sans-serif;
+  }
+  .ab{
+    font-weight:normal;
+    margin-left:20px;
+    margin-top: -7px;
+    font-family: sans-serif;
+    width:100px
+  }
+  .ind1{
+    font-weight:normal;
+    margin-left:20px;
+    margin-top: -12px;
+    font-family: sans-serif;
+  }
+  .tech{
+    font-weight:normal;
+    margin-left:20px;
+   margin-top: -12px;
+   font-family: sans-serif;
+  }
+  .place{
+    font-weight:normal;
+    margin-left:20px;
+    margin-top: -12px;
+    font-family: sans-serif;
+  }
+  .enr{
+    font-weight:normal;
+   margin-top: -10px;
+    margin-left:20px;
+    font-family: sans-serif;
+   
+  }
+  .car{
+   margin-left: 18px;
+   margin-top: 8px;
+   font-family: sans-serif;
+  }
+  .newe{
+    margin-left: 20px;
+    margin-top: 8px;
+    font-family: sans-serif;
+    width: 200px;
+  }
+  .box2{
+   display: flex;
+   margin-left: 98px;
+   margin-top: 50px;
+   font-size: 17px;
+  }
+  .service{
+    margin-left: -80px;
+    font-family: sans-serif;
+  }
+  .eds{
+    font-weight:normal;
+    font-family: sans-serif;
+    margin-top: 38px;
+    margin-left: -68px;
+    width: 25vw;
+  
+  }
+  .ind{
+    font-weight:normal;
+    font-family: sans-serif;
+    margin-top: 70px;
+    margin-left: -382px;
+    width: 25vw;
+  }
+  .desig{
+    font-weight:normal;
+    font-family: sans-serif;
+    margin-left: -382px;
+    margin-top: 100px;
+    width: 25vw;
+  }
+  .erp{
+    font-weight:normal;
+    font-family: sans-serif;
+    width: 25vw;
+    margin-top: 130px;
+    margin-left: -383px;
+  }
+  .angular{
+    font-weight:normal;
+    font-family: sans-serif;
+    margin-top: 157px;
+    margin-left: -385px;
+    width: 25vw;
+  }
+  .parmanent{
+    font-weight:normal;
+    font-family: sans-serif;
+    width: 25vw;
+    margin-top: 185px;
+    margin-left: -385px;
+  }
+  .contractab{
+    font-weight:normal;
+    font-family: sans-serif;
+    margin-top: 212px;
+    margin-left: -383px;
+    width: 25vw;
+  }
+  .contractus{
+    font-weight:normal;
+    font-family: sans-serif;
+    margin-top: 240px;
+    margin-left: -380px;
+    width: 25vw;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .box3{
+  display: flex;
+  }
   
   .mb{
     margin-top: 90px;
@@ -480,25 +768,20 @@ color: #fff;
     color: #fff;
     font-family: sans-serif;
   }
-  .container2{
-    height:87.7vh;
-    background-color:orange;
+  .container1{
+    height:100vh;
+    background-color:skyblue;
   }
-  .hpost3{
-    margin-top:-770px;
-    text-align:center;
+  .hpost1{
+    margin-top:-780px;
+    margin-left:30px;
+    font-family:sans-serif;
   }
-  .parapost2{
-    margin-left:80px;
+  .parapos3{
+    margin-left:30px;
+    margin-top:20px;
+    line-height:40px;
     font-size:30px;
-    
-  }
-  .image10{
-    margin-left:0px;
-    margin-top:130px;
-  }
-  .image11{
-    margin-top:-220px;
   }
   .container9{
     background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
