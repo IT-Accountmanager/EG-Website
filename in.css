@@ -539,99 +539,27 @@ color: #fff;
     color: #fff;
     font-family: sans-serif;
   }
-  .container1{
-    background-image:url(Picture53.PNG);
-    position: cover;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    margin-left: auto;
-  margin-right: auto;
-    height:85.8vh;
-    margin-top:113px;
-  }
-  .hpos1{
-   margin-left:10px; 
+  /* .container2{
+    height:88vh;background-color:orange;
     margin-top:0px;
-    color:white;
-    font-family:sans-serif;
-    
-  }
-  
-  .container2{
-    background-image:url(Picture53.PNG);
-    position: cover;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    margin-left: auto;
-  margin-right: auto;
-    height:87.8vh;
-  }
+  } */
   .hpost1{
-    margin-top:10px;
+    text-align:center;
+    margin-top:-800px;
     color:white;
     font-family:sans-serif;
-    margin-left:-1600px;
   }
   .ppost1{
     color:white;
-    margin-left:-940px;
+    margin-left:80px;
     font-size:30px;
-    margin-top:-10px;
-    text-align:center;
-    line-height:40px;
-    font-family:sans-serif;
+    margin-top:10px;
   }
 .image2{
   margin-top:-10px;
   z-index:2;
 }
-#Rectangle1{
-  width:20vw;
-  height:43vh;
-  border-style:solid;
-  border-width:0.1vw;
-  background-color:skyblue;
-  margin-left:3.2vw;
-  margin-top:40vh;
-  border-radius:70px;
-}
-.Rectangle2{
-  width:20vw;
-  height:43vh;
-  border-style:solid;
-  border-width:0.1vw;
-  background-color:skyblue;
-  margin-left:4.2vw;
-  margin-top:40vh;
-  border-radius:70px;
-}
-.Rectangle3{
-  width:20vw;
-  height:43vh;
-  border-style:solid;
-  border-width:0.1vw;
-  background-color:skyblue;
-  margin-left:5.2vw;
-  margin-top:40vh;
-  border-radius:70px;
-}
 
-.Rectangle4{
-  width:20vw;
-  height:43vh;
-  border-style:solid;
-  border-width:0.1vw;
-  background-color:skyblue;
-  margin-left:4.2vw;
-  margin-top:40vh;
-  border-radius:70px;
-}
   .container9{
     background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
     height:86.6vh;
@@ -641,7 +569,18 @@ color: #fff;
   
   
   
-  
+.container2{
+    background-image:url(Picture53.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:98.1vh;
+  }
   
   
   
