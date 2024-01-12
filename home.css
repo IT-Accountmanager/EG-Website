@@ -24,6 +24,14 @@
     margin-top:-7vh;
     margin-left:-0.4vw;
 }
+.alink2{
+    margin-left:-4.3vw;
+    margin-top:-2.8vh;
+    font-family:'Times New Roman', Times, serif;
+    }
+    .arrow1{
+        margin-left:-3.2vw;margin-top:73.5vh;font-size:2.9vw;color:blue;
+    }
 .container5{
     background-color:lightpink;
     height:86.6vh;
@@ -48,12 +56,6 @@
     height:86.6vh;
     width:99.1vw;
     margin-left:-0.4vw;
-}
-.container9{
-    background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
-    height:86.6vh;
-    margin-left:-0.4vw;
-    width:99.1vw;
 }
 .container10{
     height:4vh;
@@ -571,11 +573,12 @@ border-style:solid;
     font-size:5vw;
   } */
 
-  .container9{
+   .container9{
     background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
     height:86.6vh;
     margin-left:-0.4vw;
     width:99.5vw;
+    margin-top:0px;
 }
   
   
@@ -592,6 +595,8 @@ border-style:solid;
       margin-top: 0.2px;
       display: flex;
       background-color: bisque;
+      width:1913px;
+      margin-left:-10px;
     }
     .fp{
       margin-top: 18px;
@@ -628,4 +633,5 @@ border-style:solid;
     }
   
   
-  
+
+   

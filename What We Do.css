@@ -451,7 +451,7 @@ color: #fff;
 
 .container3{
   height:86.1vh;
-    background-color:lightgreen;
+    background-color:white;
 }
 
   
@@ -498,62 +498,61 @@ color: #fff;
     text-align: center;
     
   }
+  
+  .container5{
+    background-image:url(Picture37.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:86.2vh;
+    margin-top:-698.4px;
+  }
   .h1{
-    margin-top: -430px;
+    margin-top: 250px;
     margin-left: 260px;
     font-size: 95px;
     color:white;
     
   }
   .h2{
-    margin-top: -118px;
-    margin-left: 1235px;
+    margin-top: 260px;
+    margin-left: 635px;
     font-size: 95px;
   }
   .ppos16{
-    margin-top:160px;
+    margin-top:620px;
     color:white;
-    margin-left:870px;
+    margin-left:-810px;
     font-size:30px;
   }
   .ppos17{
-    margin-top:-32px;
+    margin-top:620px;
     color:black;
-    margin-left:960px;
+    margin-left:10px;
     font-size:30px;
   }
-  
   .circle5{
+    
+    
     width: 3vw;
     height: 6vh;
-    -webkit-border-radius:3vw;
-    -moz-border-radius:3vw;
     border-radius:3vw;
     border-width:0.2vw;
     border-style:solid;
     border-color:blue;
-    margin-left: 335px;
-    margin-top: 100px;
+    margin-left: -99px;
+    margin-top: 680px;
   }
   .arrow{
-    margin-left:30vw;
-    margin-top:-6vh;
+    margin-left:0.3vw;
+    margin-top:-0.9vh;
     font-size:2.9vw;
   }
-  .container5{
-    background-color:lightblue;
-    height:80.2vh;
-    margin-top:-753.5px;
-  }
-  .img4{
-margin-left:0px;
-
-  }
-  .img5{
-margin-left:951.9px;
-margin-top:-741px;
-  }
-  
   .container6{
     height: 84vh;
     display: flex;
@@ -782,21 +781,88 @@ margin-top:-741px;
     font-family: sans-serif;
   }
   .container9{
-    background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
+    background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
     height:86.6vh;
     margin-left:-0.4vw;
     width:99.5vw;
 }
+ .Circle1{
+  margin-left:1.7vw;padding-top:18.55vh;
+ } 
+ .Circle2{
+  margin-left:1.64vw;margin-top:19.6vh;
+ }
+  #circle{
+    width: 7vw;height: 14vh;border-radius:7vw;border-width:0.1vw;border-style:solid;border-color:black;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  }
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  .letE{
+    margin-top:-24vh;margin-left:3.85vw;font-size:5vw;color:white;margin-top:-13.2vh;
+  }
+  .letG{
+    margin-top:-24vh;margin-left:3.35vw;font-size:5vw;color:white;margin-top:-13.2vh;
+  }
+  .hpost5{
+  margin-left:10.45vw;margin-top:34.5vh;font-size:0.7vw;
+  }
+  .para1{
+  margin-left:10.4vw;font-size:1.2vw;line-height:4vh;margin-top:-55.4vh;
+  }
+  .hpost6{
+    margin-left:39.35vw;margin-top:-43.8vh;font-size:0.7vw;
+  }
+  .hpost7{
+    margin-left:55.5vw;margin-top:-3.3vh;font-size:0.7vw;
+  }
+  .hpost8{
+    margin-left:79.3vw;margin-top:-3.5vh;font-size:0.7vw;color:white;
+  }
+  .links{
+    font-weight:bold;margin-left:39.5vw;margin-top:0.1vh;font-size:1vw;line-height:2vh;
+  }
+  .para3{
+    font-weight:bold;margin-left:55.5vw;margin-top:-34.1vh;font-size:1vw;line-height:2vh;
+  }
+  .info{
+    font-weight:bold;margin-left:79.5vw;margin-top:-34.2vh;font-size:1vw;color:white;line-height:2vh;
+  }
+  .Hpos{
+    margin-left:10.5vw;margin-top:1.4vh;font-size:0.6vw;
+  }
+  .Mpos{
+    margin-left:39.9vw;margin-top:-3vh;font-size:0.6vw;
+  }
+  .Kpos{
+    margin-left:67.7vw;margin-top:-3vh;font-size:0.6vw;
+  }
+  .HA{
+    margin-left:10.5vw;margin-top:1.5vh;font-size:1vw;
+  }
+  .MA{
+    margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
+  }
+  .KA{
+    margin-left:67.7vw;margin-top:-7.3vh;font-size:1vw;
+  }
+  .Tpos{
+    margin-left:10.5vw;margin-top:2vh;font-size:0.6vw;
+  }
+  .Gpos{
+    margin-left:39.9vw;margin-top:-3vh;font-size:0.6vw;
+  }
+  .Rpos{
+    margin-left:67.7vw;margin-top:-3vh;font-size:0.6vw;
+  }
+  .TA{
+    margin-left:10.5vw;margin-top:1.3vh;font-size:1vw;
+  }
+  .GA{
+    margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
+  }
+  .RA{
+    margin-left:67.7vw;margin-top:-7.2vh;font-size:1vw;
+  }
     .footer{
       height: 60px;
       margin-top: 0.2px;

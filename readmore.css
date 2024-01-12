@@ -650,14 +650,53 @@
   
   
   
+  
   .container3{
-    /* padding-top:100px; */
-  height: 88.2vh;
-  background-color:lightgreen;
-  display: flex;
+    background-image:url(Picture42.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:88vh;
+    margin-top:0px;
+  }
+  .let{
+    font-size: 120px;
+    margin-top: -50px;
+  }
+  .circle {
+    width: 400px;
+    height: 400px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 239px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  }
+  .lets{
+    font-size: 120px;
+    margin-top: -50px;
+  }
+  .circle2 {
+    width: 400px;
+    height: 400px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 350px;
+    margin-left: -405px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+    border: black;
   }
   .bpos1{
-    margin-left:-1600px;
+    margin-left:350px;
     margin-top:180px;
     color:black;
     font-size:90px;
@@ -665,7 +704,7 @@
     /* font-weight:bold; */
   }
   .ppos18{
-    margin-left:-1550px;
+    margin-left:-700px;
     margin-top:420px;
     font-size:30px;
     font-family: 'Times New Roman', Times, serif
@@ -674,31 +713,155 @@
   
   
  .container4{
-  background-color:yellow;
+  background-image:url(Picture44.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:11.8vh;
+    margin-top:0px;
   
  }
-  
-  
- .container5{
-  background-color:orange;
- }
- .image4{
-    margin-left:200px;
-    margin-top:100px;
- }
-  
-  .hrow{
-    border: 10px solid red;
-    
+  .hpos11{
+    margin-left:80px;margin-top:7px;color:yellow;font-size:40px;
   }
   
+ .container5{
+  background-image:url(Picture43.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:76.2vh;
+    margin-top:0px;
   
-  
-  
-  
-  
-  
-  
+ }
+ .image4{
+    margin-left:600px;
+    margin-top:152px;
+ }
+ 
+  .vl {
+    border-left: 2px solid white;
+    height: 700px;
+    position: absolute;
+    left: 50%;
+    margin-left: -4px;
+    
+    margin-top:0px;
+  }
+  .image5{
+    margin-left:-687px;margin-top:165px
+  }
+  .image6{
+    margin-left:1px;margin-top:165px;
+  }
+  .image7{
+    margin-left:-1285px;margin-top:347px;
+  }
+  .image8{
+    margin-left:2px;margin-top:347px;
+  }
+  .hline{
+    margin-left:-1290px;
+    margin-top:345px;
+  }
+  .apos1{
+    color:white;
+            margin-left:-1230px;margin-top:20px;font-size:30px;
+  }
+  .hline1{
+    margin-left:-1175px;
+    margin-top:160px;
+  }
+  .oval1 {
+    width: 70px;
+    height: 45px;
+    border-radius: 70%;
+    margin-top: 140px;
+    margin-left: 0px;
+    background-color: orange;
+  }
+.sym1{
+  color:white;
+  font-size:40px;
+  font-weight: bolder;
+  margin-left:25px;
+}
+  .apos2{
+    color:white;
+              margin-left:1095px;margin-top:30px;font-size:30px
+  }
+  .hline2{
+    margin-left:-320px;
+    margin-top:170px;
+  }
+  .oval2 {
+    width: 70px;
+    height: 45px;
+    border-radius: 70%;
+    margin-top: 150px;
+    margin-left: -372px;
+    background-color: orange;
+  }
+.sym2{
+  color:white;
+  font-size:40px;
+  font-weight: bolder;
+  margin-left:21px;
+}
+  .apos3{
+    color:white;
+  margin-left:-1428px;margin-top:565px;font-size:30px;
+  }
+  .hline3{
+    margin-left:-1380px;
+    margin-top:530px;
+  }
+  .oval3 {
+    width: 70px;
+    height: 45px;
+    border-radius: 70%;
+    margin-top: 510px;
+    margin-left: -2px;
+    background-color: orange;
+  }
+.sym3{
+  color:white;
+  font-size:40px;
+  font-weight: bolder;
+  margin-left:25px;
+}
+  .apos4{
+    color:white;
+  margin-left:1085px;margin-top:560px;font-size:30px;
+  }
+  .hline4{
+    margin-left:-330px;
+    margin-top:524px;
+  }
+  .oval4{
+    width: 70px;
+    height: 45px;
+    border-radius: 70%;
+    margin-top: 505px;
+    margin-left: -370px;
+    background-color: orange;
+  }
+.sym4{
+  color:white;
+  font-size:40px;
+  font-weight: bolder;
+  margin-left:21px;
+} 
   
   
   

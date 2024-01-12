@@ -265,8 +265,8 @@ color: #fff;
 }
 
 
-.container{
-    background-image:url(pcp9.PNG);
+  .container1{
+    background-image:url(Picture50.PNG);
     position: cover;
     background-size: auto;
     background-repeat: no-repeat;
@@ -275,7 +275,45 @@ color: #fff;
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:98.1vh;
+  height:87.7vh;
+  margin-top:113px
+    
+  }
+  .hpos1{
+    margin-left:30px;
+    margin-top:-10px;
+    color:black; 
+    font-family: sans-serif;
+  }
+  .ppos1{
+    font-size:25px;
+    line-height:40px;
+    margin-left:-550px;
+    margin-top:30px;
+    font-family: sans-serif;
+    
+  }
+  .ppos2{
+    font-size:25px;
+    line-height:40px;
+    margin-left:-1805px;
+    margin-top:205px;
+    font-family: sans-serif;
+  }
+  .ppos3{
+    font-size:25px;
+    line-height:40px;
+    margin-left:-1665px;
+    margin-top:380px;
+    font-family: sans-serif;
+  }
+  .image2{
+    margin-left:295px;
+    margin-top:70px;
+  }
+  .image3{
+    margin-left:-540px;
+    margin-top:320px;
   }
   .aboutt{
     margin-left: 106px;

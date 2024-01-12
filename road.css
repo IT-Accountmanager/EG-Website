@@ -283,41 +283,61 @@ color: #fff;
 
 
 .container{
-    position: cover;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-background-color:red;
-    height:47.85vw;
-  }
+  background-image:url(Picture32.PNG);
+  position: cover;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  margin-left: auto;
+margin-right: auto;
+  height:87.7vh;
+  margin-top:113px;
+}
   .paragraph{
     display: flex;
   }
   .para1{
-    margin-top: 160px;
+    margin-top: 80px;
     color:white;
-    font-size: 24px;
+    font-size: 40px;
     font-family: sans-serif;
-    margin-left: -1860px;
+    margin-left: 60px;
     width: 60vw;
     line-height: 40px;
    
   }
   .para2{
-    margin-top: 305px;
+    font-size:30px;
     color:white;
-    font-size: 24px;
+    width:60vw;
+    margin-left:-1001px;
+    margin-top:84px;
+    font-family: sans-serif;
+  }
+  .para3{
+    margin-top: 130px;
+    color:white;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left:-1299px;
+    width: 60vw;
+    line-height: 40px;
+  }
+  .para4{
+    margin-top: 245px;
+    color:white;
+    font-size: 30px;
     font-family: sans-serif;
     margin-left:-1150px;
     width: 60vw;
     line-height: 40px;
   }
-  .para3{
-    margin-top: 600px;
+  .para5{
+    margin-top: 555px;
     color:white;
-    font-size: 24px;
+    font-size:30px;
     font-family: sans-serif;
     margin-left:-1150px;
     width: 60vw;
@@ -332,8 +352,8 @@ background-color:red;
     height: 400px;
     line-height: 600px;
     border-radius: 50%;
-    margin-top: 170px;
-    margin-left: -25vw;
+    margin-top: 50px;
+    margin-left: 11vw;
     color: black;
     text-align: center;
     background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
@@ -347,7 +367,7 @@ background-color:red;
     height: 400px;
     line-height: 600px;
     border-radius: 50%;
-    margin-top: 470px;
+    margin-top: 350px;
     margin-left: -20.5vw;
     color: black;
     text-align: center;
@@ -355,7 +375,9 @@ background-color:red;
     border: black;
   }
 
-
+.ppos-1{
+  font-size:30px;
+}
 .container2{
   height:65vh;
   background-color:lightpink;
