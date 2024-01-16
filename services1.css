@@ -291,8 +291,8 @@
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:98.1vh;
-    margin-top:120px;
+    height:91.4vh;
+    margin-top:113px;
   }
   .imgb{
     margin-left:0vw;
@@ -302,26 +302,26 @@
     display: flex;
   }
   .para1{
-    margin-top: 220px;
+    margin-top: 65px;
     color: #fff;
     font-size: 70px;
     font-family: sans-serif;
-    margin-left:-1800px;
+    margin-left:104px;
     width: 60vw;
     font-weight: bold;
    
   }
   .para2{
-    margin-top: 340px;
+    margin-top: 170px;
     color: #fff;
     font-size: 70px;
     font-family: sans-serif;
-    margin-left: -1150px;
+    margin-left: -1151px;
     width: 60vw;
     font-weight: bold;
   }
   .para3{
-    margin-top: 440px;
+    margin-top: 270px;
     color: #fff;
     font-size: 33px;
     font-family: sans-serif;
@@ -338,8 +338,8 @@
     height: 400px;
     line-height: 500px;
     border-radius: 50%;
-    margin-top: 165px;
-    margin-left: -450px;
+    margin-top: 46px;
+    margin-left: 188px;
     color: black;
     text-align: center;
     background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
@@ -353,7 +353,7 @@
     height: 400px;
     line-height: 600px;
     border-radius: 60%;
-    margin-top: 450px;
+    margin-top: 337px;
     margin-left: -395px;
     color: black;
     text-align: center;
