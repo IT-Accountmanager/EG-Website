@@ -780,23 +780,138 @@ margin-top:-741px;
     color: #fff;
     font-family: sans-serif;
   }
+  
   .container1{
+    background-image:url(Picture57.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
     height:87.8vh;
-    background-color:skyblue;
     margin-top:113px;
   }
   .hpost2{
     margin-left:30px;
-    margin-top:-775px;
+    margin-top:25px;
     color:black;
     font-family:sans-serif;
   }
   .parapost1{
     font-size:30px;
-    margin-left:30px;
+    margin-left:-550px;
     margin-top:10px;
+    text-align:center;
+    font-family:sans-serif;
   }
-  
+  .rec1{
+    width:1897px;
+    height:130px;
+    border-style: solid;
+    border-width:0.1vw;
+    background-color:lightgray;
+    margin-top:400px;
+    margin-left:-1867px;
+  }
+  .img-1{
+margin-left:50px;
+  }
+  .hd-1{
+    color:dodgerblue;
+    font-family:sans-serif;
+    font-size:11px;
+    margin-top:-70px;
+    margin-left:80px;
+  }
+  .img-2{
+margin-top:-80px;
+margin-left:350px;
+  }
+  .img-3{
+    margin-top:-90px;
+    margin-left:550px;
+
+  }
+  .hd-2{
+    color:brown;
+    font-family:sans-serif;
+    font-size:11px;
+    margin-top:-10px;
+    margin-left:550px;
+  }
+  .img-4{
+    margin-top:-75px;
+    margin-left:800px;
+
+  }
+  .img-5{
+    margin-top:-100px;
+    margin-left:950px;
+
+  }
+  .hd-3{
+    color:dodgerblue;
+    font-family:sans-serif;
+    font-size:11px;
+    margin-top:-10px;
+    margin-left:950px;
+  }
+  .img-6{
+    margin-top:-70px;
+    margin-left:1200px;
+
+  }
+  .img-7{
+    margin-top:-100px;
+    margin-left:1300px;
+
+  }
+  .hd-4{
+    color:dodgerblue;
+    font-family:sans-serif;
+    font-size:11px;
+    margin-top:-1px;
+    margin-left:1300px;
+  }
+  .square1{
+    width:200px;
+    height:200px;
+    border-width:0.1vw;
+    border-style:solid;
+    background-color:lightblue;
+    margin-top:550px;
+    margin-left:-1600px;
+  }
+  .square2{
+    width:200px;
+    height:200px;
+    border-width:0.1vw;
+    border-style:solid;
+    background-color:lightsalmon;
+    margin-top:490px;
+    margin-left:30px;
+  }
+  .square3{
+    width:200px;
+    height:200px;
+    border-width:0.1vw;
+    border-style:solid;
+    background-color:lightgreen;
+    margin-top:490px;
+    margin-left:80px;
+  }
+  .square4{
+    width:200px;
+    height:200px;
+    border-width:0.1vw;
+    border-style:solid;
+    background-color:lightgray;
+    margin-top:490px;
+    margin-left:100px;
+  }
   .container9{
     background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
     height:86.6vh;

@@ -464,16 +464,7 @@ color: #fff;
     margin-left:610px;
     font-size:34px;
   }
-  .container4{
-    height: 88vh;
-    display: flex;
-    background-image:url(ppc4.PNG);
-      position: cover;
-      background-size: auto;
-      background-repeat: no-repeat;
-      background-position: center;
-      background-size: cover;
-  }
+  
   .hh{
     height: 12vh;
     background-color: #c0b9b9;
@@ -851,10 +842,32 @@ margin-top:-741px;
     font-size:30px;
     font-family:sans-serif;
   }
+  .pic70{
+    margin-left:-1350px;
+    margin-top:110px;
+  }
+  .head1{
+    color:dodgerblue;
+    font-family: sans-serif;
+    margin-left:-1380px;
+    margin-top:370px;
+  }
+  .head2{
+    color:dodgerblue;
+    font-family: sans-serif;
+    margin-left:-920px;
+    margin-top:370px;
+  }
+  .head3{
+    color:dodgerblue;
+    font-family: sans-serif;
+    margin-left:-495px;
+    margin-top:370px;
+  }
   .parapos7{
     color:black;
-    margin-left:-1400px;
-    margin-top:400px;
+    margin-left:-1500px;
+    margin-top:430px;
     font-size:30px;
     font-family:sans-serif;
   }
@@ -878,6 +891,64 @@ margin-top:-741px;
     font-size:30px;
     font-family:sans-serif;
     text-align:center;
+  }
+  .container5{
+    background-image:url(Picture63.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:96vh;
+    margin-top:0px;
+  }
+  .head-2{
+    color:black;
+    margin-top:-20px;
+    margin-left:120px;
+    font-family: sans-serif;
+  }
+  .h-6{
+    color:black;
+    margin-top:0px;
+    margin-left:-483px;
+    font-size:35px;
+    font-family: sans-serif;
+  }
+  .h-2{
+    color:black;
+    margin-top:150px;
+    margin-left:-1605px;
+    font-family: sans-serif;
+    font-size:18px;
+  }
+  .p-pos1{
+    color:black;
+    margin-left:-400px;
+    margin-top:140px;
+    font-size:25px;
+    font-family: sans-serif;
+  }
+  .pic74{
+    margin-left:150px;
+    margin-top:130px;
+  }
+  .h-3{
+    color:black;
+    margin-top:500px;
+    margin-left:-1760px;
+    font-family: sans-serif;
+    font-size:18px;
+  }
+  .p-pos2{
+    color:black;
+    margin-left:-203px;
+    margin-top:455px;
+    font-size:25px;
+    font-family: sans-serif;
   }
   .container9{
     background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
