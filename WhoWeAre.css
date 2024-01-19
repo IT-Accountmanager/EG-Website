@@ -409,6 +409,7 @@
     margin-left: 460px;
     position: absolute;
     margin-top: -49px;
+    font-weight:bold;
   }
 
   .container2{
@@ -438,9 +439,9 @@
     width: auto;
     margin-top: -116px;
     padding: 16px;
-    color: white;
+    color: black;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 25px;
     transition: 0.6s ease;
     border-radius: 0 3px 3px 0;
     user-select: none;
@@ -482,6 +483,7 @@
   }
   .me{
     color: black;
+    text-decoration: underline;
     /* margin-left: 600px; */
     /* margin-top: -1066px; */
     /* font-size: 2vw; */
@@ -493,12 +495,14 @@
   /* margin-top: -28px; */
   font-size: 24px;
   font-family: sans-serif;
+  text-decoration: underline;
   }
   .int{
     /* margin-left: 1100px; */
     margin-top: -26px;
     font-size: 24px;
     font-family: sans-serif;
+    text-decoration: underline;
   }
   
   
@@ -545,25 +549,28 @@
    
   
   }
-  .me{
-    color: rgb(116, 110, 110);
+  .me1{
+    color:brown;
     margin-left: 470px;
     margin-top: -566px;
     font-size: 24px;
     font-family: sans-serif;
+    text-decoration: underline;
   }
   
-  .co{
+  .co1{
   margin-left: 780px;
   margin-top: -28px;
   font-size: 24px;
   font-family: sans-serif;
+  text-decoration: underline;
   }
-  .int{
+  .int1{
     margin-left: 990px;
     margin-top: -26px;
     font-size: 24px;
     font-family: sans-serif;
+    text-decoration: underline;
   }
   
   
@@ -617,20 +624,23 @@
     margin-top: -570px;
     font-size: 24px;
     font-family: sans-serif;
+    text-decoration: underline;
   }
   
   .co2{
-    color: rgb(116, 110, 110);
+    color:brown;
   margin-left: 780px;
   margin-top: -28px;
   font-size: 24px;
   font-family: sans-serif;
+  text-decoration: underline;
   }
   .int2{
     margin-left: 990px;
     margin-top: -26px;
     font-size: 24px;
     font-family: sans-serif;
+    text-decoration: underline;
   }
   
   
@@ -671,6 +681,7 @@
     margin-top: -570px;
     font-size: 24px;
     font-family: sans-serif;
+    text-decoration: underline;
   }
   
   .co3{
@@ -679,13 +690,15 @@
   margin-top: -28px;
   font-size: 24px;
   font-family: sans-serif;
+  text-decoration: underline;
   }
   .int3{
-    color: rgb(116, 110, 110);
+    color:brown;
     margin-left: 990px;
     margin-top: -26px;
     font-size: 24px;
     font-family: sans-serif;
+    text-decoration: underline;
   }
   
   

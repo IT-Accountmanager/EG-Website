@@ -705,62 +705,131 @@ margin-right: auto;
   margin-left:-620px;
   margin-top:440px;
 }
-  .container9{
-    background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
-    height:86.6vh;
-    margin-left:-0.4vw;
-    width:99.5vw;
-    margin-top:813px;
-}
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-    .footer{
-      height: 60px;
-      margin-top: 0.2px;
-      display: flex;
-      background-color: bisque;
+    .container9{
+      background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
+      height:86.6vh;
+      margin-left:-0.4vw;
+      width:99.5vw;
+  }
+   .Circle1{
+    margin-left:1.7vw;padding-top:18.55vh;
+   } 
+   .Circle2{
+    margin-left:1.64vw;margin-top:19.6vh;
+   }
+    #circle{
+      width: 7vw;height: 14vh;border-radius:7vw;border-width:0.1vw;border-style:solid;border-color:black;
+      background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
     }
-    .fp{
-      margin-top: 18px;
-     margin-left: 1.5%;
-     font-size: 20px;
+    
+    .letE{
+      margin-top:-24vh;margin-left:3.85vw;font-size:5vw;color:white;margin-top:-13.2vh;
     }
-    .fc{
-      margin-left: 74.5%;
-      margin-top:10px ;
+    .letG{
+      margin-top:-24vh;margin-left:3.35vw;font-size:5vw;color:white;margin-top:-13.2vh;
     }
-    .eimg{
-      margin-left: -93.7%;
-      margin-top: 7px;
+    .hpost5{
+    margin-left:10.45vw;margin-top:34.5vh;font-size:0.7vw;
     }
-    .lin{
-      margin-top: 9.5px;
-      margin-left: 385px;
+    .para1{
+    margin-left:10.4vw;font-size:1.2vw;line-height:4vh;margin-top:-55.4vh;
     }
-    .face{
-      margin-top: 9.5px;
-     margin-left: 2%;
+    .hpost6{
+      margin-left:39.35vw;margin-top:-43.8vh;font-size:0.7vw;
     }
-    .inst{
-      margin-top: 9.5px;
-     margin-left: 2.2%;
+    .hpost7{
+      margin-left:55.5vw;margin-top:-3.3vh;font-size:0.7vw;
     }
-    .gm{
-      margin-top: 9.5px;
-      margin-left: -27%;
+    .hpost8{
+      margin-left:79.3vw;margin-top:-3.5vh;font-size:0.7vw;color:white;
     }
-    .uu{
-      margin-top: 9.5px;
-      margin-left: 1.6%;
+    .links{
+      font-weight:bold;margin-left:39.5vw;margin-top:0.1vh;font-size:1vw;line-height:2vh;
     }
-  
-  
+    .para3{
+      font-weight:bold;margin-left:55.5vw;margin-top:-34.1vh;font-size:1vw;line-height:2vh;
+    }
+    .info{
+      font-weight:bold;margin-left:79.5vw;margin-top:-34.2vh;font-size:1vw;color:white;line-height:2vh;
+    }
+    .Hpos{
+      margin-left:10.5vw;margin-top:1.4vh;font-size:0.6vw;
+    }
+    .Mpos{
+      margin-left:39.9vw;margin-top:-3vh;font-size:0.6vw;
+    }
+    .Kpos{
+      margin-left:67.7vw;margin-top:-3vh;font-size:0.6vw;
+    }
+    .HA{
+      margin-left:10.5vw;margin-top:1.5vh;font-size:1vw;
+    }
+    .MA{
+      margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
+    }
+    .KA{
+      margin-left:67.7vw;margin-top:-7.3vh;font-size:1vw;
+    }
+    .Tpos{
+      margin-left:10.5vw;margin-top:2vh;font-size:0.6vw;
+    }
+    .Gpos{
+      margin-left:39.9vw;margin-top:-3vh;font-size:0.6vw;
+    }
+    .Rpos{
+      margin-left:67.7vw;margin-top:-3vh;font-size:0.6vw;
+    }
+    .TA{
+      margin-left:10.5vw;margin-top:1.3vh;font-size:1vw;
+    }
+    .GA{
+      margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
+    }
+    .RA{
+      margin-left:67.7vw;margin-top:-7.2vh;font-size:1vw;
+    }
+      .footer{
+        height: 60px;
+        margin-top: 0.2px;
+        display: flex;
+        background-color: bisque;
+      }
+      .fp{
+        margin-top: 18px;
+       margin-left: 1.5%;
+       font-size: 20px;
+      }
+      .fc{
+        margin-left: 74.5%;
+        margin-top:10px ;
+      }
+      .eimg{
+        margin-left: -93.7%;
+        margin-top: 7px;
+      }
+      .lin{
+        margin-top: 9.5px;
+        margin-left: 385px;
+      }
+      .face{
+        margin-top: 9.5px;
+       margin-left: 2%;
+      }
+      .inst{
+        margin-top: 9.5px;
+       margin-left: 2.2%;
+      }
+      .gm{
+        margin-top: 9.5px;
+        margin-left: -27%;
+      }
+      .uu{
+        margin-top: 9.5px;
+        margin-left: 1.6%;
+      }
+    
+    
+    
   
