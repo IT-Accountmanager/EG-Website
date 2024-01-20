@@ -294,13 +294,13 @@
     margin-top:113px;
   }
   .hpos1{
-    color:white;margin-left:4.4vw;margin-top:6.5vh;font-size:2vw;font-family:'Times New Roman', Times, serif;
+    color:white;margin-left:5.2vw;margin-top:6.5vh;font-size:2vw;font-family:'Times New Roman', Times, serif;
   }
   .parapos1{
-    color:white;margin-top:14vh;margin-left:-22.9vw;line-height:5vh;font-size:1.8vw;font-family: 'Times New Roman', Times, serif;
+    color:white;margin-top:14vh;margin-left:-53vw;line-height:5vh;font-size:1.8vw;font-family: 'Times New Roman', Times, serif;
   }
   .parapos2{
-    color:white;margin-top:31.5vh;margin-left:-51.3vw;line-height:5vh;font-size:1.8vw;font-family: 'Times New Roman', Times, serif;
+    color:white;margin-top:35vh;margin-left:-53vw;line-height:5vh;font-size:1.8vw;font-family: 'Times New Roman', Times, serif;
   }
   .circle {
     width: 400px;
@@ -308,7 +308,7 @@
     line-height: 500px;
     border-radius: 50%;
     margin-top: 46px;
-    margin-left: 335px;
+    margin-left: 295px;
     color: black;
     text-align: center;
     background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
