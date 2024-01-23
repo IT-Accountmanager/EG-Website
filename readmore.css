@@ -774,12 +774,21 @@
     margin-left:-1290px;
     margin-top:345px;
   }
-  .apos1{
+  .num1{
+    margin-left:-1210px;
+    margin-top:30px;
+    font-size:30px;
     color:white;
-            margin-left:-1230px;margin-top:20px;font-size:30px;
+    font-weight:bold;
+   
+  }
+  .apos1{
+    width:50px;
+    color:white;
+            margin-left:10px;margin-top:30px;font-size:30px;
   }
   .hline1{
-    margin-left:-1175px;
+    margin-left:-50px;
     margin-top:160px;
   }
   .oval1 {
@@ -796,12 +805,21 @@
   font-weight: bolder;
   margin-left:25px;
 }
+.num2{
+  margin-left:1100px;
+  margin-top:30px;
+  font-size:30px;
+  color:white;
+  font-weight:bold;
+ 
+}
   .apos2{
+    width:50px;
     color:white;
-              margin-left:1095px;margin-top:30px;font-size:30px
+              margin-left:12px;margin-top:30px;font-size:30px
   }
   .hline2{
-    margin-left:-320px;
+    margin-left:-175px;
     margin-top:170px;
   }
   .oval2 {
@@ -818,12 +836,21 @@
   font-weight: bolder;
   margin-left:21px;
 }
+.num3{
+  margin-left:-1410px;
+  margin-top:565px;
+  font-size:30px;
+  color:white;
+  font-weight:bold;
+ 
+}
   .apos3{
+    width:50px;
     color:white;
-  margin-left:-1428px;margin-top:565px;font-size:30px;
+  margin-left:10px;margin-top:565px;font-size:30px;
   }
   .hline3{
-    margin-left:-1380px;
+    margin-left:-50px;
     margin-top:530px;
   }
   .oval3 {
@@ -840,12 +867,21 @@
   font-weight: bolder;
   margin-left:25px;
 }
+.num4{
+  margin-left:1090px;
+  margin-top:565px;
+  font-size:30px;
+  color:white;
+  font-weight:bold;
+ 
+}
   .apos4{
+    width:50px;
     color:white;
-  margin-left:1085px;margin-top:560px;font-size:30px;
+  margin-left:10px;margin-top:565px;font-size:30px;
   }
   .hline4{
-    margin-left:-330px;
+    margin-left:-120px;
     margin-top:524px;
   }
   .oval4{

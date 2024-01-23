@@ -573,30 +573,97 @@ border-style:solid;
     font-size:5vw;
   } */
 
-   .container9{
-    background-image: linear-gradient(to right, rgb(151, 167, 185) , rgba(36, 82, 209, 0.986));
+  .container9{
+    background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
     height:86.6vh;
     margin-left:-0.4vw;
     width:99.5vw;
-    margin-top:0px;
+    
 }
+ .Circle1{
+  margin-left:1.3vw;padding-top:18.25vh;
+ } 
+ .Circle2{
+  margin-left:1.25vw;margin-top:19.5vh;
+ }
+  #circle{
+    width: 7vw;height: 14vh;border-radius:7vw;border-width:0.1vw;border-style:solid;border-color:black;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  }
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  .letE{
+    margin-left:3.45vw;font-size:5vw;color:white;margin-top:-23.65vh;
+  }
+  .letG{
+    margin-left:3vw;font-size:5vw;color:white;margin-top:-23.7vh;
+  }
+  .hpost5{
+  margin-left:10.05vw;margin-top:32.5vh;font-size:0.7vw;
+  }
+  .para1{
+  margin-left:9.97vw;font-size:1.2vw;line-height:4vh;margin-top:-65.7vh;
+  }
+  .hpost6{
+    margin-left:38.95vw;margin-top:-46.4vh;font-size:0.7vw;
+  }
+  .hpost7{
+    margin-left:55.1vw;margin-top:-5.2vh;font-size:0.7vw;
+  }
+  .hpost8{
+    margin-left:78.9vw;margin-top:-5.4vh;font-size:0.7vw;color:white;
+  }
+  .links{
+    font-weight:bold;margin-left:39.1vw;margin-top:-4.65vh;font-size:1vw;line-height:1.35vh;
+  }
+  .para3{
+    font-weight:bold;margin-left:55.12vw;margin-top:-40.9vh;font-size:1vw;line-height:2vh;
+  }
+  .info{
+    font-weight:bold;margin-left:73.6vw;margin-top:-38.2vh;font-size:1vw;color:white;line-height:2vh;
+  }
+  .Hpos{
+    margin-left:10.1vw;margin-top:-0.55vh;font-size:0.6vw;
+  }
+  .Mpos{
+    margin-left:39.5vw;margin-top:-4.7vh;font-size:0.6vw;
+  }
+  .Kpos{
+    margin-left:67.31vw;margin-top:-4.74vh;font-size:0.6vw;
+  }
+  .HA{
+    margin-left:10.1vw;margin-top:-0.5vh;font-size:1vw;
+  }
+  .MA{
+    margin-left:39.5vw;margin-top:-9.3vh;font-size:1vw;
+  }
+  .KA{
+    margin-left:67.3vw;margin-top:-9.4vh;font-size:1vw;
+  }
+  .Tpos{
+    margin-left:10.1vw;margin-top:2.25vh;font-size:0.6vw;
+  }
+  .Gpos{
+    margin-left:39.5vw;margin-top:-4.6vh;font-size:0.6vw;
+  }
+  .Rpos{
+    margin-left:67.3vw;margin-top:-4.4vh;font-size:0.6vw;
+  }
+  .TA{
+    margin-left:10.1vw;margin-top:-1.1vh;font-size:1vw;
+  }
+  .GA{
+    margin-left:39.5vw;margin-top:-9.3vh;font-size:1vw;
+  }
+  .RA{
+    margin-left:67.3vw;margin-top:-9.26vh;font-size:1vw;
+  }
     .footer{
       height: 60px;
-      margin-top: 0.2px;
+      margin-top:0.2px;
       display: flex;
-      background-color: bisque;
-      width:1913px;
-      margin-left:-10px;
+      background-color:bisque;
+      width:1911px;
+      margin-left:-8px;
     }
     .fp{
       margin-top: 18px;
@@ -633,5 +700,4 @@ border-style:solid;
     }
   
   
-
-   
+    

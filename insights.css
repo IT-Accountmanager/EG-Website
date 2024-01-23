@@ -251,7 +251,10 @@ color:rgb(70, 70, 73);
 transform: scale(1.25);
 }
 
-
+#styo:hover{
+  color:rgb(70, 70, 73);
+  transform: scale(1.25);
+  }
 
 .enimg{
  
@@ -409,12 +412,12 @@ margin-right: auto;
   width:500px;
 }
 .bar{
-  width:10px;
+  width:5px;
   height:100px;
   border-width:0.2px;
   border-style:solid;
   margin-top:90px;
-  margin-left:-424px;
+  margin-left:-494px;
   background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
 
 }
@@ -422,7 +425,6 @@ margin-right: auto;
   font-size:40px;
   margin-top:90px;
   margin-left:20px;
-  color:lightgreen;
 }
 .p-1{
   margin-top:150px;
@@ -431,7 +433,7 @@ margin-right: auto;
   width:500px;
 }
 .im1{
-  margin-left:280px;
+  margin-left:210px;
   margin-top:40px;
 }
 .num2{
@@ -439,6 +441,9 @@ margin-right: auto;
   margin-top:260px;
   margin-left:-1792px;
   color:black;
+}
+.num2 a:hover{
+  color:blue;
 }
 .p-2{
   margin-top:320px;
@@ -449,7 +454,7 @@ margin-right: auto;
 .num3{
   font-size:40px;
   margin-top:430px;
-  margin-left:-257px;
+  margin-left:-303px;
   color:black;
 }
 .p-3{
@@ -461,7 +466,7 @@ margin-right: auto;
 .num4{
   font-size:40px;
   margin-top:600px;
-  margin-left:-255px;
+  margin-left:-303px;
   color:black;
 }
 .p-4{
@@ -471,18 +476,31 @@ margin-right: auto;
   width:300px;
 }
 .h-2{
-  margin-left:480px;
+  margin-left:441px;
   margin-top:460px;
   width:1500px;
   font-family: sans-serif;
 }
 .p-5{
   margin-top:515px;
-  margin-left:-1280px;
+  margin-left:-1500px;
   width:1300px;
   font-size:25px;
   font-family: sans-serif;
   line-height:35px;
+}
+.rect{
+  width:200px;
+  height:50px;
+  border-width:1px;
+  border-style:solid;
+  margin-top:700px;
+  margin-left:-1302px;
+}
+.p-6{
+  font-size:30px;
+  margin-left:30px;
+  margin-top:5px;
 }
 .container2{
 height: 99vh;

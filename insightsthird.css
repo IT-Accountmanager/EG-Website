@@ -281,7 +281,7 @@
   
   
   .container{
-    background-image:url(Picture19.PNG);
+    background-image:url(Picture90.PNG);
     position: cover;
     background-size: auto;
     background-repeat: no-repeat;
@@ -290,25 +290,23 @@
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:98.1vh;
+    height:85.8vh;
     margin-top:113px;
   }
   .hpos1{
-    color:white;margin-left:4.4vw;margin-top:6.5vh;font-size:2vw;font-family:'Times New Roman', Times, serif;
+    color:white;margin-left:12vw;margin-top:25vh;font-size:2vw;font-family:'Times New Roman', Times, serif;
   }
   .parapos1{
-    color:white;margin-top:14vh;margin-left:-22.9vw;line-height:5vh;font-size:1.8vw;font-family: 'Times New Roman', Times, serif;
+    color:white;margin-top:30vh;margin-left:-29.4vw;line-height:5vh;font-size:1.8vw;font-family: 'Times New Roman', Times, serif;
   }
-  .parapos2{
-    color:white;margin-top:31.5vh;margin-left:-51.3vw;line-height:5vh;font-size:1.8vw;font-family: 'Times New Roman', Times, serif;
-  }
+  
   .circle {
     width: 400px;
     height: 400px;
     line-height: 500px;
     border-radius: 50%;
     margin-top: 46px;
-    margin-left: 335px;
+    margin-left: 312px;
     color: black;
     text-align: center;
     background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
@@ -325,7 +323,7 @@
     background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
     border: black;
   }
- 
+  
   .paragraph{
     display: flex;
   }
@@ -390,28 +388,113 @@
     background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
     border: black;
   } */
-  
   .container1{
-    background-image: linear-gradient(to right, rgba(194, 206, 207, 0.904) , rgb(70, 173, 199));
-    height:12vh;
-    
+    /* background-image:url(Picture90.PNG); */
+    background-color:plum;
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:86.4vh;
+    margin-top:113px;
+  }
+  .h-1{
+    margin-top:20px;
+    margin-left:50px;
+    font-size:20px;
+    width:500px;
+  }
+  .bar{
+    width:5px;
+    height:100px;
+    border-width:0.2px;
+    border-style:solid;
+    margin-top:425px;
+    margin-left:-300px;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
   
   }
-  .ppos1{
-    margin-left:3vw;
-    font-size:2vw;
-    padding-top:1.5vh;
-    color:#717171
+  .num1{
+    font-size:40px;
+    margin-top:90px;
+    margin-left:-500px;
   }
-  .numbertext {
-    color: blue;
-    font-size: 26px;
-    margin-left: 460px;
-    position: absolute;
-    margin-top: -49px;
-    font-weight:bold;
+  .p-1{
+    margin-top:150px;
+    font-size:25px;
+    margin-left:-37.5px;
+    width:500px;
   }
-
+  .im1{
+    margin-left:210px;
+    margin-top:40px;
+  }
+  .num2{
+    font-size:40px;
+    margin-top:260px;
+    margin-left:-1762px;
+    color:black;
+  }
+  .p-2{
+    margin-top:320px;
+    font-size:25px;
+    margin-left:-39px;
+    width:300px;
+  }
+  .num3{
+    font-size:40px;
+    margin-top:430px;
+    margin-left:20px;
+  }
+  .p-3{
+    margin-top:490px;
+    font-size:25px;
+    margin-left:-39px;
+    width:300px;
+  }
+  .num4{
+    font-size:40px;
+    margin-top:600px;
+    margin-left:-328px;
+    color:black;
+  }
+  .p-4{
+    margin-top:660px;
+    font-size:25px;
+    margin-left:-37px;
+    width:300px;
+  }
+  .h-2{
+    margin-left:404px;
+    margin-top:460px;
+    width:1500px;
+    font-family: sans-serif;
+  }
+  .p-5{
+    margin-top:515px;
+    margin-left:-1500px;
+    width:1300px;
+    font-size:25px;
+    font-family: sans-serif;
+    line-height:35px;
+  }
+  .rect{
+    width:200px;
+    height:50px;
+    border-width:1px;
+    border-style:solid;
+    margin-top:700px;
+    margin-left:-1302px;
+  }
+  .p-6{
+    font-size:30px;
+    margin-left:30px;
+    margin-top:5px;
+  }
   .container2{
   height: 99vh;
   background-color: white;
@@ -529,10 +612,10 @@
   border-color: rgba(0, 255, 0, 0.5);  
   } */
                                                         /* second slide image and text */
-
+  
         .globelogo{
         margin-left: 590px;
-
+  
         margin-top: -700.5px;
         font-size: 150px;
        }
@@ -731,7 +814,7 @@
   
   
   
-
+  
   
   /* The dots/bullets/indicators */
   .dot {
@@ -789,232 +872,26 @@
   
   
   
-  .container3{
-    background-image:url(Picture25.PNG);
-    position: cover;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    margin-left: auto;
-  margin-right: auto;
-    height:86.3vh;
-    margin-top:-165px;
-  }
-  .img7{
-margin-left:0vw;
-  }
-  .img8{
-    margin-left:0vw;
-
-  }
-  
-  
-  
-  
-  .container4{
-    background-image:url(Picture40.PNG);
-    position: cover;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    margin-left: auto;
-  margin-right: auto;
-    height:86.5vh;
-    margin-top:0px;
-  }
-  .img10{
-    margin-left:951px;
-    margin-top:-812px;
-  }
-  .bpos{
-    font-size:80px;
-    margin-top:95px;
-    color:white;
-    margin-left:245px;
-  }
-  .para-2{
-    font-size:50px;
-    margin-top:120px;
-    color:white;
-    margin-left:30px;
-    font-family: sans-serif;
-  }
-  .para-3{
-    font-size:50px;
-    padding-top:120px;
-    color:black;
-    margin-left:21px;
-    font-family: sans-serif;
-  }
-  .para-4{
-    font-size:50px;
-    margin-top:220px;
-    color:white;
-    margin-left:-1010px;
-    font-family: sans-serif;
-  }
-  .para-5{
-    font-size:50px;
-    margin-top:220px;
-    color:black;
-    margin-left:-620px;
-    font-family: sans-serif;
-  }
-
-  .para-6{
-    font-size:80px;
-    margin-top:194px;
-    color:black;
-    margin-left:-385px;
-  }
-  .rd1{
-    width:14%;
-    height:60px;
-    margin-top: 680px;
-    margin-left: -670px;
-    border-radius: 30px;
-    /* background-color:#FFFFFF; */
-    text-align: center;
-    border:2px solid;
-    border-color: rgba(15, 121, 170, 0.5);  
-    }
-    .ppos10{
-      font-size:45px;
-      margin-top:1px;
-      margin-left:100px;
-      color:white;
-      font-family:sans-serif;
-      margin-left:-80px;
-    }
-    .ppos11{
-      font-size:45px;
-      margin-top:-51px;
-      margin-left:120px;
-      color:black;
-      font-family:sans-serif;
-    }
-  /* container-5 */
-  
-  
-  
-  /* .container5{
-  height: 99vh;
-  background-color: white;
-  display: flex;
-  margin-top: -120px;
-  } */
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   .ppos2{
-margin-left:25.45vw;
-color:black;
-margin-top:12.5vh;
-font-size:3vw;
+  margin-left:25.45vw;
+  color:black;
+  margin-top:12.5vh;
+  font-size:3vw;
   }
-  .ppos3{
-margin-left:0vw;
-color:white;
-font-size:3vw;
-margin-top:12.5vh;
-  }
-  .ppos4{
-    margin-left:-54.7vw;
-    color:black;
-    margin-top:23.5vh;
-    font-size:3vw;
-  }
-.ppos5{
- margin-left:1vw;
-color:white;
-margin-top:23.5vh;
-font-size:3vw;
-}
-.ppos6{
-margin-left:-27.45vw;
-color:black;
-margin-top:34vh;
-font-size:3vw;
-}
-.ppos7{
-margin-left:0.5vw;
-color:white;
-margin-top:34vh;
-font-size:3vw;
-}
-.rd {
-  width:14%;
-  height:60px;
-  margin-top: 680px;
-  margin-left: -250px;
-  border-radius: 30px;
-  /* background-color:#FFFFFF; */
-  text-align: center;
-  border:2px solid;
-  border-color: rgba(0, 255, 0, 0.5);  
-  }
-  .ppos8{
-    color:black;
-    margin-left:-110px;
-    font-size:45px;
-    margin-top:4px;
-    font-family:sans-serif;
-  }                                         
-  .ppos9{
-    color:white;
-    margin-left:90px;
-    font-size:45px;
-    margin-top:-51px;
-    font-family:sans-serif;
-  } 
+  
   .container9{
     background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
     height:86.6vh;
     margin-left:-0.4vw;
     width:99.5vw;
-}
- .Circle1{
+  }
+  .Circle1{
   margin-left:1.7vw;padding-top:18.55vh;
- } 
- .Circle2{
+  } 
+  .Circle2{
   margin-left:1.64vw;margin-top:19.6vh;
- }
+  }
   #circle{
     width: 7vw;height: 14vh;border-radius:7vw;border-width:0.1vw;border-style:solid;border-color:black;
     background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
