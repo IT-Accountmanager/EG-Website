@@ -502,51 +502,9 @@ margin-right: auto;
   margin-left:30px;
   margin-top:5px;
 }
-.container2{
-height: 99vh;
-background-color: white;
-display: flex;
-margin-top: -40px;
-}
 
 
-.slideshow-container {
-  height: 90vh;
-  position: relative;
-  margin: auto;
-}
 
-/* Hide the images by default */
-.mySlides {
-  display: none;
-}
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  margin-top: -116px;
-  padding: 16px;
-  color: black;
-  font-weight: bold;
-  font-size: 25px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
                                                            /* first slide image and text */                                                           
                                                            
 .hpos2{
@@ -599,14 +557,7 @@ text-decoration: underline;
 
 
 
-.meimge1{
-  margin-top: 60px;
-  margin-left: 1130px;
-  z-index: -1;
-  display: flex;
-  /* width:1000px; */
- 
-}
+
 /* .rd {
 width:10%;
 height:30px;
@@ -667,13 +618,7 @@ text-decoration: underline;
 
 
 
-.meimge2{
-  margin-top: 60px;
-  margin-left: 1130px;
-  z-index: -1;
-  display: flex;
- 
-}
+
 /* .rd {
 width:10%;
 height:30px;
@@ -737,13 +682,6 @@ text-decoration: underline;
 
 
 
-.meimge3{
-  margin-top: 55px;
-  margin-left: 1120px;
-  z-index: -1;
-  display: flex;
- 
-}
 
 
 
@@ -795,13 +733,7 @@ text-decoration: underline;
 
 
 
-.meimge4{
-  margin-top: 55px;
-  margin-left: 1120px;
-  z-index: -1;
-  display: flex;
- 
-}
+
 
 
 

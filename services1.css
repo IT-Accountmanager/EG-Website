@@ -473,7 +473,7 @@
   .a-pos1{
     font-size:28px;
     color:blue;
-    margin-top:5px;
+    margin-top:6.5px;
     margin-left:-40px;
   }
   .openbook{
@@ -549,7 +549,7 @@
     .a-pos2{
       font-size:28px;
       color:blue;
-      margin-top:5px;
+      margin-top:6.5px;
       margin-left:-40px;
     }
     .openbook2{
@@ -625,7 +625,7 @@
     .a-pos3{
       font-size:28px;
       color:blue;
-      margin-top:5px;
+      margin-top:6.5px;
       margin-left:-40px;
     }
     .openbook3{
@@ -858,10 +858,10 @@
  .Circle1{
   margin-left:1.7vw;padding-top:18.55vh;
  } 
- .Circle-2{
+ .Circle2{
   margin-left:1.64vw;margin-top:19.6vh;
  }
-  #circle-A{
+  #circle{
     width: 7vw;height: 14vh;border-radius:7vw;border-width:0.1vw;border-style:solid;border-color:black;
     background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
   }
@@ -875,7 +875,7 @@
   .hpost5{
   margin-left:10.45vw;margin-top:34.5vh;font-size:0.7vw;
   }
-  .para-A{
+  .para-1{
   margin-left:10.4vw;font-size:1.2vw;line-height:4vh;margin-top:-55.4vh;
   }
   .hpost6{
@@ -890,7 +890,7 @@
   .links{
     font-weight:bold;margin-left:39.5vw;margin-top:0.1vh;font-size:1vw;line-height:2vh;
   }
-  .paraB{
+  .para-3{
     font-weight:bold;margin-left:55.5vw;margin-top:-34.1vh;font-size:1vw;line-height:2vh;
   }
   .info{
@@ -971,10 +971,6 @@
       margin-top: 9.5px;
       margin-left: 1.6%;
     }
-  
-  
-  
-  
   
   
   

@@ -841,7 +841,7 @@ margin-left:350px;
 
   }
   .hd-3{
-    color:dodgerblue;
+    color:green;
     font-family:sans-serif;
     font-size:11px;
     margin-top:-6px;
@@ -858,7 +858,7 @@ margin-left:350px;
 
   }
   .hd-4{
-    color:dodgerblue;
+    color:black;
     font-family:sans-serif;
     font-size:11px;
     margin-top:-1px;
@@ -901,20 +901,32 @@ margin-left:350px;
     margin-left:220px;
   }
   .h-pos1{
-    margin-left:-250px;
+    margin-left:-210px;
     color:dodgerblue;
+    font-size:11px;
+    line-height:30px;
+    margin-top:-60px;
   }
   .h-pos2{
-    margin-left:-260px;
-    color:dodgerblue;
+    margin-left:-215px;
+    color:brown;
+    font-size:11px;
+    line-height:30px;
+    margin-top:-55px;
   }
   .h-pos3{
-    margin-left:-260px;
-    color:dodgerblue;
+    margin-left:-210px;
+    color:green;
+    line-height:30px;
+    font-size:11px;
+    margin-top:-55px;
   }
   .h-pos4{
-    margin-left:-260px;
-    color:dodgerblue;
+    margin-left:-210px;
+    color:black;
+    line-height:30px;
+    font-size:11px;
+    margin-top:-55px;
   }
   .container2{
     /* background-image:url(Picture57.PNG); */
@@ -1046,12 +1058,12 @@ margin-left:350px;
   }
   .container9{
     background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
-    height:86.6vh;
+    height:88vh;
     margin-left:-0.4vw;
     width:99.5vw;
 }
  .Circle1{
-  margin-left:1.7vw;padding-top:18.55vh;
+  margin-left:1.7vw;padding-top:18.3vh;
  } 
  .Circle2{
   margin-left:1.64vw;margin-top:19.6vh;
@@ -1062,13 +1074,13 @@ margin-left:350px;
   }
   
   .letE{
-    margin-top:-24vh;margin-left:3.85vw;font-size:5vw;color:white;margin-top:-13.2vh;
+    margin-top:-24vh;margin-left:3.85vw;font-size:5vw;color:white;margin-top:-13.3vh;
   }
   .letG{
-    margin-top:-24vh;margin-left:3.35vw;font-size:5vw;color:white;margin-top:-13.2vh;
+    margin-top:-24vh;margin-left:3.35vw;font-size:5vw;color:white;margin-top:-13.1vh;
   }
   .hpost5{
-  margin-left:10.45vw;margin-top:34.5vh;font-size:0.7vw;
+  margin-left:10.45vw;margin-top:32.6vh;font-size:0.7vw;
   }
   .para1{
   margin-left:10.4vw;font-size:1.2vw;line-height:4vh;margin-top:-55.4vh;
@@ -1083,13 +1095,13 @@ margin-left:350px;
     margin-left:79.3vw;margin-top:-3.5vh;font-size:0.7vw;color:white;
   }
   .links{
-    font-weight:bold;margin-left:39.5vw;margin-top:0.1vh;font-size:1vw;line-height:2vh;
+    font-weight:bold;margin-left:39.5vw;margin-top:-0.3vh;font-size:1vw;line-height:1.33vh;
   }
   .para3{
-    font-weight:bold;margin-left:55.5vw;margin-top:-34.1vh;font-size:1vw;line-height:2vh;
+    font-weight:bold;margin-left:55.5vw;margin-top:-36.2vh;font-size:1vw;line-height:2vh;
   }
   .info{
-    font-weight:bold;margin-left:79.5vw;margin-top:-34.2vh;font-size:1vw;color:white;line-height:2vh;
+    font-weight:bold;margin-left:77.3vw;margin-top:-36.35vh;font-size:1vw;color:white;line-height:2vh;
   }
   .Hpos{
     margin-left:10.5vw;margin-top:1.4vh;font-size:0.6vw;
@@ -1168,4 +1180,4 @@ margin-left:350px;
     }
   
   
-   
+  

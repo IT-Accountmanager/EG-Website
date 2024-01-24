@@ -401,7 +401,7 @@ margin-right: auto;
 .vl {
   border-left: 2px solid rgb(97, 94, 91);
   height: 450px;
-  margin-left: 45px;
+  margin-left: 50px;
   margin-top: 140px;
 }
 .yer{
@@ -413,7 +413,7 @@ margin-right: auto;
 }
 .rimg1{
   margin-top: 160px;
-  margin-left: -425px;
+  margin-left: -270px;
 }
 
 .rdpara1{
@@ -452,7 +452,7 @@ margin-right: auto;
 .vl1 {
   border-left: 2px solid rgb(97, 94, 91);
   height: 500px;
-  margin-left: 782px;
+  margin-left: 942px;
   margin-top: 100px;
 }
 .yer1{
@@ -464,7 +464,7 @@ margin-right: auto;
  
 }
 .rimg2{
-  margin-left: -1211px;
+  margin-left: -1215px;
   margin-top: 120px;
 }
 
@@ -486,7 +486,7 @@ margin-right: auto;
 .rdpara3{
   margin-top: 300px;
   width:600px;
-  margin-left: 3%;
+  margin-left: 2.7%;
   font-size: 22px;
   font-family: sans-serif;
   line-height:40px;
@@ -495,7 +495,7 @@ margin-right: auto;
 .vl2 {
   border-left: 2px solid rgb(97, 94, 91);
   height: 500px;
-  margin-left: 785px;
+  margin-left: 942px;
   margin-top: 104px;
 }
 .yer2{
@@ -529,7 +529,7 @@ margin-right: auto;
 .rdpara4{
   margin-top: 300px;
   width:600px;
-  margin-left: 3%;
+  margin-left: 2.75%;
   font-size: 22px;
   font-family: sans-serif;
   line-height:40px;
@@ -538,7 +538,7 @@ margin-right: auto;
 .vl3 {
   border-left: 2px solid rgb(97, 94, 91);
   height: 500px;
-  margin-left: 785px;
+  margin-left: 942px;
   margin-top: 105px;
 }
 .yer3{
@@ -553,75 +553,128 @@ margin-right: auto;
   margin-left: -706px;
   margin-top: 130px;
 }
-
-.footer{
-  height: 60px;
-  margin-top: 699px;
-  display: flex;
-  background-color: bisque;
+.container9{
+  background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
+  height:86.6vh;
+  margin-left:-0.4vw;
+  width:99.5vw;
 }
-.fp{
-  margin-top: 18px;
- margin-left: 1.5%;
- font-size: 20px;
+.Circle1{
+margin-left:1.7vw;padding-top:18.55vh;
+} 
+.Circle2{
+margin-left:1.64vw;margin-top:19.6vh;
 }
-.fc{
-  margin-left: 74.5%;
-  margin-top:10px ;
-}
-.eimg{
-  margin-left: -93.7%;
-  margin-top: 7px;
-}
-.lin{
-  margin-top: 9.5px;
-  margin-left: 385px;
-}
-.face{
-  margin-top: 9.5px;
- margin-left: 2%;
-}
-.inst{
-  margin-top: 9.5px;
- margin-left: 2.2%;
-}
-.gm{
-  margin-top: 9.5px;
-  margin-left: -27%;
-}
-.uu{
-  margin-top: 9.5px;
-  margin-left: 1.6%;
+#circle{
+  width: 7vw;height: 14vh;border-radius:7vw;border-width:0.1vw;border-style:solid;border-color:black;
+  background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
 }
 
+.letE{
+  margin-top:-24vh;margin-left:3.85vw;font-size:5vw;color:white;margin-top:-13.2vh;
+}
+.letG{
+  margin-top:-24vh;margin-left:3.35vw;font-size:5vw;color:white;margin-top:-13.2vh;
+}
+.hpost5{
+margin-left:10.45vw;margin-top:34.5vh;font-size:0.7vw;
+}
+.para-1{
+margin-left:10.4vw;font-size:1.2vw;line-height:4vh;margin-top:-55.4vh;
+}
+.hpost6{
+  margin-left:39.35vw;margin-top:-43.8vh;font-size:0.7vw;
+}
+.hpost7{
+  margin-left:55.5vw;margin-top:-3.3vh;font-size:0.7vw;
+}
+.hpost8{
+  margin-left:79.3vw;margin-top:-3.5vh;font-size:0.7vw;color:white;
+}
+.links{
+  font-weight:bold;margin-left:39.5vw;margin-top:0.1vh;font-size:1vw;line-height:2vh;
+}
+.para-3{
+  font-weight:bold;margin-left:55.5vw;margin-top:-34.1vh;font-size:1vw;line-height:2vh;
+}
+.info{
+  font-weight:bold;margin-left:79.5vw;margin-top:-34.2vh;font-size:1vw;color:white;line-height:2vh;
+}
+.Hpos{
+  margin-left:10.5vw;margin-top:1.4vh;font-size:0.6vw;
+}
+.Mpos{
+  margin-left:39.9vw;margin-top:-3vh;font-size:0.6vw;
+}
+.Kpos{
+  margin-left:67.7vw;margin-top:-3vh;font-size:0.6vw;
+}
+.HA{
+  margin-left:10.5vw;margin-top:1.5vh;font-size:1vw;
+}
+.MA{
+  margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
+}
+.KA{
+  margin-left:67.7vw;margin-top:-7.3vh;font-size:1vw;
+}
+.Tpos{
+  margin-left:10.5vw;margin-top:2vh;font-size:0.6vw;
+}
+.Gpos{
+  margin-left:39.9vw;margin-top:-3vh;font-size:0.6vw;
+}
+.Rpos{
+  margin-left:67.7vw;margin-top:-3vh;font-size:0.6vw;
+}
+.TA{
+  margin-left:10.5vw;margin-top:1.3vh;font-size:1vw;
+}
+.GA{
+  margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
+}
+.RA{
+  margin-left:67.7vw;margin-top:-7.2vh;font-size:1vw;
+}
+  .footer{
+    height: 60px;
+    margin-top: 0.2px;
+    display: flex;
+    background-color: bisque;
+  }
+  .fp{
+    margin-top: 18px;
+   margin-left: 1.5%;
+   font-size: 20px;
+  }
+  .fc{
+    margin-left: 74.5%;
+    margin-top:10px ;
+  }
+  .eimg{
+    margin-left: -93.7%;
+    margin-top: 7px;
+  }
+  .lin{
+    margin-top: 9.5px;
+    margin-left: 385px;
+  }
+  .face{
+    margin-top: 9.5px;
+   margin-left: 2%;
+  }
+  .inst{
+    margin-top: 9.5px;
+   margin-left: 2.2%;
+  }
+  .gm{
+    margin-top: 9.5px;
+    margin-left: -27%;
+  }
+  .uu{
+    margin-top: 9.5px;
+    margin-left: 1.6%;
+  }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  

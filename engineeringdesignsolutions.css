@@ -540,16 +540,28 @@ color: #fff;
 
   }
   .parapost2{
-    margin-left:-1055px;
-    margin-top:40px;
+    width:1900px;
+    margin-left:-1115px;
+    margin-top:80px;
     font-size:30px;
     font-family:sans-serif;
+    line-height:40px;
+    text-align:center;
     
   }
-  
+  .parapost3{
+    width:1900px;
+    margin-left:-1910px;
+    margin-top:220px;
+    font-size:30px;
+    font-family:sans-serif;
+    line-height:40px;
+    text-align:center;
+    
+  }
   .image11{
     margin-top:420px;
-    margin-left:-1615px;
+    margin-left:-1855px;
   }
   .head-1{
     color:dodgerblue;

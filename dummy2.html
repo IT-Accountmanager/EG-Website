@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Envisionis Group</title>
-        <link rel="stylesheet" type="text/css" href="home.css">
+        <link rel="stylesheet" type="text/css" href="dummy2.css">
         <link href='https://unpkg.com/css.gg@2.0.0/icons/css/home.css' rel='stylesheet'>
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>  
                               
@@ -83,10 +83,34 @@
             </div>
         <div class="container3" style="display:flex">
             <div class="videopos">
-            
+                <button class="play-pause-btn" type="button" id="custom-controls" style="position:absolute;z-index:0;margin-top:24.8vw;margin-left:59.5vw;width: 5vw;height: 2vw;"><i class="fa fa-pause"></i>  Pause</button>
+            </div>  
     <video autoplay muted>
         <source src="X:\10_BV03_IT\10_BV03_IT_05_TEAM_COMMON_USE\03_GENERAL\EIS0784-NAVEEN\EG-Website\envisionis-video.mp4" id="myvid">
-    </video></div>
+    </video>
+
+
+   
+  <script>
+
+
+    var ppbutton = document.getElementById("custom-controls");
+    ppbutton.addEventListener("click", playPause);
+   
+    myVideo = document.getElementById("myvid");
+    function playPause() {
+        if (myVideo.paused) {
+            myVideo.play();
+            ppbutton.innerHTML = "<i class='fa fa-pause' aria-hidden='true'></i>"+ " "+"Pause";
+            }
+        else  {
+            myVideo.pause();
+            ppbutton.innerHTML = "<i class='fa fa-play' aria-hidden='true'></i>"+" " +"Play";
+            }
+    }
+   
+    </script>
+</div>
     
     <!-- <button style="margin-left:20vw;margin-top:-50vw" class="play-pause-btn" type="button" id="custom-controls" style="position:absolute;z-index:0;margin-top:31.75vw;margin-left:-38.45vw;width: 5vw;height: 2vw;"><i class="fa fa-pause"></i>  Pause</button>
       <script>
