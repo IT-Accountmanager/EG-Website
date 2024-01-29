@@ -334,18 +334,7 @@ color: #fff;
   }
  
 
-  .container2{
-    background-image:url(ppc1.PNG);
-    position: cover;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    margin-left: auto;
-  margin-right: auto;
-    height:86.1vh;
-  }
+  
   .pp1{
     margin-top: 30px;
     margin-left: 30px;
@@ -518,11 +507,7 @@ color: #fff;
     margin-top:-6vh;
     font-size:2.9vw;
   }
-  .container5{
-    background-color:lightblue;
-    height:80.2vh;
-    margin-top:-753.5px;
-  }
+ 
   .img4{
 margin-left:0px;
 
@@ -770,7 +755,7 @@ margin-top:-741px;
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:98.1vh;
+    height:87.7vh;
     margin-top:113px;
   }
   .hpost1{
@@ -780,7 +765,7 @@ margin-top:-741px;
   }
   .parapos3{
     margin-left:-470px;
-    margin-top:20px;
+    margin-top:-5px;
     line-height:40px;
     font-size:30px;
     font-family:sans-serif;
@@ -801,21 +786,27 @@ margin-top:-741px;
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:86vh;
+    height:88vh;
     margin-top:0px;
   }
+ .hp-2{
+  margin-left:50px;
+  margin-top:20px;
+  font-family: sans-serif;
+  font-size:18px;
+ }
   .parapos4{
     color:white;
     font-size:30px;
-    margin-left:50px;
-    margin-top:30px;
+    margin-left:-514px;
+    margin-top:15px;
     font-family:sans-serif;
   }
   .parapos5{
     color:white;
     font-size:30px;
     margin-left:-900px;
-    margin-top:330px;
+    margin-top:315px;
     font-family:sans-serif;
   }
   .image4{
@@ -832,12 +823,18 @@ margin-top:-741px;
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:86vh;
+    height:88.2vh;
     margin-top:0px;
   }
+  .hp-3{
+    margin-left:50px;
+    margin-top:20px;
+    font-family: sans-serif;
+    font-size:18px;
+   }
   .parapos6{
     color:black;
-    margin-left:250px;
+    margin-left:-310px;
     margin-top:40px;
     font-size:30px;
     font-family:sans-serif;
@@ -881,13 +878,20 @@ margin-top:-741px;
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:86vh;
+    height:88.2vh;
     margin-top:0px;
   }
+  .hp-4{
+    margin-left:50px;
+    margin-top:20px;
+    font-family: sans-serif;
+    font-size:18px;
+    color:white;
+   }
   .parapos8{
-    color:black;
-    margin-left:110px;
-    margin-top:75px;
+    color:white;
+    margin-left:-430px;
+    margin-top:85px;
     font-size:30px;
     font-family:sans-serif;
     text-align:center;
@@ -902,7 +906,7 @@ margin-top:-741px;
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:96vh;
+    height:88.3vh;
     margin-top:0px;
   }
   .head-2{
@@ -913,14 +917,14 @@ margin-top:-741px;
   }
   .h-6{
     color:black;
-    margin-top:0px;
+    margin-top:-10px;
     margin-left:-483px;
     font-size:35px;
     font-family: sans-serif;
   }
   .h-2{
     color:black;
-    margin-top:150px;
+    margin-top:135px;
     margin-left:-1605px;
     font-family: sans-serif;
     font-size:18px;
@@ -928,25 +932,25 @@ margin-top:-741px;
   .p-pos1{
     color:black;
     margin-left:-400px;
-    margin-top:140px;
+    margin-top:125px;
     font-size:25px;
     font-family: sans-serif;
   }
   .pic74{
-    margin-left:150px;
-    margin-top:130px;
+    margin-left:40px;
+    margin-top:110px;
   }
   .h-3{
     color:black;
-    margin-top:500px;
-    margin-left:-1760px;
+    margin-top:420px;
+    margin-left:-1770px;
     font-family: sans-serif;
     font-size:18px;
   }
   .p-pos2{
     color:black;
     margin-left:-203px;
-    margin-top:455px;
+    margin-top:382px;
     font-size:25px;
     font-family: sans-serif;
   }
@@ -1031,7 +1035,7 @@ margin-top:-741px;
     margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
   }
   .RA{
-    margin-left:67.7vw;margin-top:-7.2vh;font-size:1vw;
+    margin-left:67.7vw;margin-top:-4.5vh;font-size:1vw;
   }
     .footer{
       height: 60px;

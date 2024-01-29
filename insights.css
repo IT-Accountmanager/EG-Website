@@ -260,7 +260,7 @@ transform: scale(1.25);
  
   text-align: center;
   margin-left: -60.4vw;
-  margin-top: -1.8vh;
+  margin-top: -2.4vh;
 }
 .gg{
   margin-left: -10.6vw;
@@ -505,14 +505,9 @@ margin-right: auto;
 
 
 
-                                                           /* first slide image and text */                                                           
+                                                                                                              
                                                            
-.hpos2{
-  margin-top:-650px;
-  margin-left:280px;
-  color:white;
-  font-size:30px;
-}
+
                                                            
                                                            
                                                            
@@ -529,154 +524,9 @@ font-family: sans-serif;
  
 
 }
-.me{
-  color: black;
-  text-decoration: underline;
-  /* margin-left: 600px; */
-  /* margin-top: -1066px; */
-  /* font-size: 2vw; */
-  font-family: sans-serif;
-}
-
-.co{
-/* margin-left: 880px; */
-/* margin-top: -28px; */
-font-size: 24px;
-font-family: sans-serif;
-text-decoration: underline;
-}
-.int{
-  /* margin-left: 1100px; */
-  margin-top: -26px;
-  font-size: 24px;
-  font-family: sans-serif;
-  text-decoration: underline;
-}
-
-
-
-
-
-
-/* .rd {
-width:10%;
-height:30px;
-margin-top: 300px;
-margin-left: 200px;
-border-radius: 30px;
-background-color:#FFFFFF;
-text-align: center;
-border:2px solid;
-border-color: rgba(0, 255, 0, 0.5);  
-} */
-                                                      /* second slide image and text */
-
-      .globelogo{
-      margin-left: 590px;
-
-      margin-top: -700.5px;
-      font-size: 150px;
-     }
-
-.text1 {
-  color:white;
-  font-size: 28px;
-font-family: sans-serif;
-  position: absolute;
- margin-top: 60px;
- margin-left: 280px;
-  width: 50%;
-  text-align: justify;
- 
-
-}
-.me1{
-  color:brown;
-  margin-left: 470px;
-  margin-top: -566px;
-  font-size: 24px;
-  font-family: sans-serif;
-  text-decoration: underline;
-}
-
-.co1{
-margin-left: 780px;
-margin-top: -28px;
-font-size: 24px;
-font-family: sans-serif;
-text-decoration: underline;
-}
-.int1{
-  margin-left: 990px;
-  margin-top: -26px;
-  font-size: 24px;
-  font-family: sans-serif;
-  text-decoration: underline;
-}
-
-
-
-
-
-
-/* .rd {
-width:10%;
-height:30px;
-margin-top: 300px;
-margin-left: 200px;
-border-radius: 30px;
-background-color:#FFFFFF;
-text-align: center;
-border:2px solid;
-border-color: rgba(0, 255, 0, 0.5);  
-} */
-
-
-
-
-                                      /* ---------------------------third slides css------------------------ */
-
-.text2 {
-  color:white;
-  font-size: 28px;
-font-family: sans-serif;
-  position: absolute;
- margin-top: 60px;
- margin-left: 280px;
-  width: 50%;
-  text-align: justify;
-  line-height:40px;
- 
 
-}
-.img5{
-  margin-left:500px;
-  margin-top:-700px;
-}
-.me2{
- 
-  margin-left: 470px;
-  margin-top: -570px;
-  font-size: 24px;
-  font-family: sans-serif;
-  text-decoration: underline;
-}
 
-.co2{
-  color:brown;
-margin-left: 780px;
-margin-top: -28px;
-font-size: 24px;
-font-family: sans-serif;
-text-decoration: underline;
-}
-.int2{
-  margin-left: 990px;
-  margin-top: -26px;
-  font-size: 24px;
-  font-family: sans-serif;
-  text-decoration: underline;
-}
+                                                      
 
 
 
@@ -685,49 +535,9 @@ text-decoration: underline;
 
 
 
-                                                  /* ---------------------------fourth slides css------------------------ */
 
-.text3 {
-  color:white;
-  font-size: 28px;
-font-family: sans-serif;
-  position: absolute;
- margin-top: 60px;
- margin-left: 280px;
-  width: 50%;
-  text-align: justify;
- 
 
-}
-.img6{
-  margin-left:550px;
-  margin-top:-700px;
-}
-.me3{
- 
-  margin-left: 470px;
-  margin-top: -570px;
-  font-size: 24px;
-  font-family: sans-serif;
-  text-decoration: underline;
-}
 
-.co3{
- 
-margin-left: 780px;
-margin-top: -28px;
-font-size: 24px;
-font-family: sans-serif;
-text-decoration: underline;
-}
-.int3{
-  color:brown;
-  margin-left: 990px;
-  margin-top: -26px;
-  font-size: 24px;
-  font-family: sans-serif;
-  text-decoration: underline;
-}
 
 
 
@@ -753,35 +563,6 @@ text-decoration: underline;
 
 
 
-
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
- margin-top: 100px;
- margin-left: -200px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
 .img1{
   margin-top: -41px;
   margin-left:-20vh
@@ -821,12 +602,12 @@ font-size:3vw;
 
 .container9{
   background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
-  height:86.6vh;
+  height:79.4vh;
   margin-left:-0.4vw;
   width:99.5vw;
 }
 .Circle1{
-margin-left:1.7vw;padding-top:18.55vh;
+margin-left:1.7vw;padding-top:11.55vh;
 } 
 .Circle2{
 margin-left:1.64vw;margin-top:19.6vh;
@@ -900,7 +681,7 @@ margin-left:10.4vw;font-size:1.2vw;line-height:4vh;margin-top:-55.4vh;
   margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
 }
 .RA{
-  margin-left:67.7vw;margin-top:-7.2vh;font-size:1vw;
+  margin-left:67.7vw;margin-top:-4.5vh;font-size:1vw;
 }
   .footer{
     height: 60px;

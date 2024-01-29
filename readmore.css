@@ -370,45 +370,7 @@
   }
   
   
-  .slideshow-container {
-    height: 90vh;
-    position: relative;
-    margin: auto;
-  }
-  
-  /* Hide the images by default */
-  .mySlides {
-    display: none;
-  }
-  
-  /* Next & previous buttons */
-  .prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -52px;
-    padding: 16px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-  }
-  
-  /* Position the "next button" to the right */
-  .next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-  }
-  
-  /* On hover, add a black background color with a little bit see-through */
-  .prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
-  }
-  
-  /* Caption text                                                               first slide css */
+                                              
   .text1 {
     color:black;
     font-size: 28px;
@@ -422,212 +384,7 @@
    
   
   }
-  .me{
-    color: rgb(116, 110, 110);
-    margin-left: 570px;
-    margin-top: -766px;
-    font-size: 24px;
-    font-family: sans-serif;
-  }
   
-  .co{
-  margin-left: 890px;
-  margin-top: -28px;
-  font-size: 24px;
-  font-family: sans-serif;
-  }
-  .int{
-    margin-left: 1120px;
-    margin-top: -26px;
-    font-size: 24px;
-    font-family: sans-serif;
-  }
-  
-  
-  
-  
-  
-  .meimge{
-    margin-top: 200px;
-    margin-left: 1074px;
-    z-index: -1;
-    display: flex;
-    width:350px;
-    height:350px;
-   
-  }
-  .rd {
-  width:10%;
-  height:30px;
-  margin-top: 100px;
-  margin-left: 800px;
-  border-radius: 30px;
-  /* background-color:#FFFFFF; */
-  text-align: center;
-  border:2px solid;
-  border-color:rgba(33, 55, 253, 0.5); 
-  }
-  
-  
-  
-  
-  /* ---------------------------second slides css------------------------ */
-  
-  .text2 {
-    color:black;
-    font-size: 28px;
-  font-family: sans-serif;
-    position: absolute;
-   margin-top: -600px;
-   margin-left: 100px;
-    width: 50%;
-    text-align: justify;
-    line-height:40px;
-   
-  
-  }
-  .me2{
-   
-    margin-left: 570px;
-    margin-top: -766px;
-    font-size: 24px;
-    font-family: sans-serif;
-  }
-  
-  .co2{
-    color: rgb(116, 110, 110);
-  margin-left: 890px;
-  margin-top: -28px;
-  font-size: 24px;
-  font-family: sans-serif;
-  }
-  .int2{
-    margin-left: 1120px;
-    margin-top: -26px;
-    font-size: 24px;
-    font-family: sans-serif;
-  }
-  
-  
-  
-  
-  
-  .meimge2{
-    margin-top: 200px;
-    margin-left: 1050px;
-    z-index: -1;
-    display: flex;
-    width:350px;
-    height:350px;
-   
-  }
-  
-  
-  
-  /* ---------------------------third slides css------------------------ */
-  
-  .text3 {
-    color:black;
-    font-size: 28px;
-  font-family: sans-serif;
-    position: absolute;
-   margin-top: -600px;
-   margin-left: 100px;
-    width: 50%;
-    text-align: justify;
-    line-height:40px;
-   
-  
-  }
-  .me3{
-    margin-left: 570px;
-    margin-top: -766px;
-    font-size: 24px;
-    font-family: sans-serif;
-  }
-  
-  .co3{
-    margin-left: 890px;
-    margin-top: -28px;
-  font-size: 24px;
-  font-family: sans-serif;
-  }
-  .int3{
-    color: rgb(116, 110, 110);
-    margin-left: 1120px;
-    margin-top: -26px;
-    font-size: 24px;
-    font-family: sans-serif;
-  }
-  
-  
-  
-  
-  
-  .meimge3{
-    margin-top: 200px;
-    margin-left: 1050px;
-    z-index: -1;
-    display: flex;
-    width:860px;
-    height:350px;
-   
-  }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  /* Number text (1/3 etc) */
-  .numbertext {
-    color: #221f1f;
-    font-size: 22px;
-    margin-left: 1800px;
-    position: absolute;
-    margin-top: 20px;
-  }
-  
-  /* The dots/bullets/indicators */
-  .dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-   margin-top: 100px;
-   margin-left: -200px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
-  }
-  
-  .active, .dot:hover {
-    background-color: #717171;
-  }
-  
-  /* Fading animation */
-  .fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
-  }
-  
-  @keyframes fade {
-    from {opacity: .4}
-    to {opacity: 1}
-  }
   .img1{
     margin-top: -40px;
   }
@@ -642,12 +399,7 @@
   
   
   
-  /* .mySlides fade{
-    margin-top: -20px;
-  } */
-  
-  /* container-3 */
-  
+ 
   
   
   
@@ -979,7 +731,7 @@ margin-left:10.4vw;font-size:1.2vw;line-height:4vh;margin-top:-55.4vh;
   margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
 }
 .RA{
-  margin-left:67.7vw;margin-top:-7.2vh;font-size:1vw;
+  margin-left:67.7vw;margin-top:-4.5vh;font-size:1vw;
 }
   .footer{
     height: 60px;

@@ -13,10 +13,10 @@
 }
 .container3{
     background-color:skyblue;
-    height:85.8vh;
+    height:92.8vh;
     margin-left:-0.4vw;
     width:99.1vw;
-    margin-top:3.6vh;
+    margin-top:-6.6vh;
 }
 .container4{
     background-image: linear-gradient(to right, rgba(248, 215, 29, 0.904) , rgb(255, 72, 0));
@@ -458,11 +458,10 @@ margin-top:0.2vh;
     font-size:1.5vw;
 }
 .videopos{
-    margin-top:-0.5vh;
+    margin-top:8.5vh;
     
-    width:465vw;
-
-    height:150vh;
+    width:335vw;
+    /* height:100vh; */
     
 }
 .vppos{

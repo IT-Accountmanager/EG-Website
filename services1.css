@@ -851,12 +851,12 @@
   }
   .container9{
     background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
-    height:86.6vh;
+    height:79.4vh;
     margin-left:-0.4vw;
     width:99.5vw;
 }
  .Circle1{
-  margin-left:1.7vw;padding-top:18.55vh;
+  margin-left:1.7vw;padding-top:11.55vh;
  } 
  .Circle2{
   margin-left:1.64vw;margin-top:19.6vh;
@@ -930,7 +930,7 @@
     margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
   }
   .RA{
-    margin-left:67.7vw;margin-top:-7.2vh;font-size:1vw;
+    margin-left:67.7vw;margin-top:-4.5vh;font-size:1vw;
   }
     .footer{
       height: 60px;

@@ -244,7 +244,7 @@ z-index:1;
    
     text-align: center;
     margin-left: -81.4vw;
-    margin-top: 19px;
+    margin-top: 18px;
 }
 .gg{
     margin-left: 37vw;
@@ -275,12 +275,13 @@ color: #fff;
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:98.1vh;
+    height:85.8vh;
+    margin-top:113px;
   }
   .aboutt{
     margin-left: 106px;
     color: rgb(247, 244, 244);
-    margin-top: -1px;
+    margin-top: -116px;
     font-size: 4vw;
     font-family: sans-serif;
     font-weight: bold;
@@ -290,7 +291,7 @@ color: #fff;
     display: flex;
   }
   .p1{
-    margin-top: 135px;
+    margin-top: 15px;
     margin-left: -350px;
     font-size: 70px;
     font-family: sans-serif;
@@ -298,7 +299,7 @@ color: #fff;
     color: rgb(211, 167, 167);
   }
   .p2{
-    margin-top: 485px;
+    margin-top: 355px;
     margin-left: -1000px;
     font-size: 30px;
     font-family: sans-serif;
@@ -307,7 +308,7 @@ color: #fff;
     line-height:45px;
   }
   .p3{
-    margin-top:225px;
+    margin-top:105px;
     margin-left:-1023px;
     font-size:70px;
     color: rgb(211, 167, 167);
@@ -316,14 +317,14 @@ color: #fff;
   
   .let{
     font-size: 120px;
-    margin-top: -50px;
+    margin-top: -58px;
   }
   .circle {
     width: 400px;
     height: 400px;
     line-height: 500px;
     border-radius: 50%;
-    margin-top: 160px;
+    margin-top: 46px;
     margin-left: 392px;
     color: black;
     text-align: center;
@@ -331,14 +332,14 @@ color: #fff;
   }
   .lets{
     font-size: 120px;
-    margin-top: -50px;
+    margin-top: -58px;
   }
   .circle2 {
     width: 400px;
     height: 400px;
     line-height: 500px;
     border-radius: 50%;
-    margin-top: 450px;
+    margin-top: 337px;
     margin-left: -405px;
     color: black;
     text-align: center;
@@ -509,7 +510,7 @@ color: #fff;
     display: flex;
     margin-left: auto;
   margin-right: auto;
-    height:86.2vh;
+    height:73.8vh;
     margin-top:-698.4px;
   }
   .h1{
@@ -525,13 +526,13 @@ color: #fff;
     font-size: 95px;
   }
   .ppos16{
-    margin-top:580px;
+    margin-top:540px;
     color:white;
     margin-left:-810px;
     font-size:30px;
   }
   .ppos17{
-    margin-top:580px;
+    margin-top:540px;
     color:black;
     margin-left:10px;
     font-size:30px;
@@ -546,7 +547,7 @@ color: #fff;
     border-style:solid;
     border-color:blue;
     margin-left: -99px;
-    margin-top: 630px;
+    margin-top: 590px;
   }
   .arrow{
     margin-left:0.3vw;
@@ -782,12 +783,12 @@ color: #fff;
   }
   .container9{
     background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
-    height:86.6vh;
+    height:79.4vh;
     margin-left:-0.4vw;
     width:99.5vw;
 }
  .Circle1{
-  margin-left:1.7vw;padding-top:18.55vh;
+  margin-left:1.7vw;padding-top:11.55vh;
  } 
  .Circle2{
   margin-left:1.64vw;margin-top:19.6vh;
@@ -861,7 +862,7 @@ color: #fff;
     margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
   }
   .RA{
-    margin-left:67.7vw;margin-top:-7.2vh;font-size:1vw;
+    margin-left:67.7vw;margin-top:-4.5vh;font-size:1vw;
   }
     .footer{
       height: 60px;
