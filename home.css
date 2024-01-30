@@ -38,7 +38,7 @@
   padding-left:-22vw;padding-top:75vh;
 }
 #rectangle3{
-  width:13vw;height:4vh;border-style:solid;border-width:0.2vw;
+  width:13vw;height:4vh;border-style:solid;border-width:0.15vw;border-color:royalblue;
 }
 .alink2{
   margin-left:-4.3vw;
@@ -111,16 +111,27 @@
       border-radius: 0 3px 3px 0;
       user-select: none;
     }
-    .prev{
+    /* .prev{
       margin-left:-4.8vw;
       margin-top:-7vh;
     }
-    /* Position the "next button" to the right */
+    
     .next {
       
       border-radius: 3px 0 0 3px;
       margin-left:735px;
       margin-top:-5vh;
+    } */
+    .prev{
+      margin-left:56.8vw;
+      margin-top:89vh;
+    }
+    
+    .next {
+      
+      border-radius: 3px 0 0 3px;
+      margin-left:93vw;
+      margin-top:89.2vh;
     }
     
     /* On hover, add a black background color with a little bit see-through */
@@ -167,19 +178,19 @@
     }
     .img1{
       margin-top: 40px;
-      margin-left:-2.2vw
+      margin-left:-2.21vw
     }
     .img2{
-      margin-top: 21px;
-      margin-left:-4vw;
+      margin-top: 41px;
+      margin-left:-2.21vw;
     }
     .img3{
-      margin-top: 21px;
-      margin-left:-2vw;
+      margin-top: 41px;
+      margin-left:-2.21vw;
     }
     .img4{
-      margin-top: 21px;
-      margin-left:-2vw;
+      margin-top: 41px;
+      margin-left:-2.21vw;
     }
 .container5{
   background-color:lightpink;

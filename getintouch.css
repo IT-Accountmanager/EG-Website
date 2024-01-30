@@ -236,7 +236,10 @@ top: -100px;
  font-weight: bold;
 }
 
-
+.styo:hover{
+  color:rgb(70, 70, 73);
+  transform: scale(1.25);
+  }
 
 
 
