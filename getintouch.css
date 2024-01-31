@@ -406,12 +406,15 @@ margin-right: auto;
  margin-left:400px;
  margin-top:40px;
 }
+.map{
+  margin-top:-105px;
+}
 .container9{
   background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
   height:79.4vh;
   margin-left:-0.4vw;
   width:99.5vw;
-  margin-top:113px;
+  margin-top:-4px;
 }
 .Circle1{
 margin-left:1.7vw;padding-top:11.55vh;
