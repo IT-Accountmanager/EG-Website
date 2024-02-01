@@ -1,0 +1,1160 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .divstyle{
+    background-image: linear-gradient(to right, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+      height:48px;
+       position: fixed;
+       width:100%;
+       z-index: 1;
+       display: flex;
+  }
+  .cc{
+    text-decoration: none;
+  color: black;
+    margin-top: 0.9vh;
+    margin-left:1.2vw;
+    font-size: 25px;
+  }
+  .ne{
+  text-decoration: none;
+  margin-left:9.4vw;
+  margin-top: -2.1vh;
+  font-size: 25px;
+  }
+  .In{
+  text-decoration: none;
+  margin-left: 21.95vw;
+  margin-top: -2.3vh;
+  font-size: 25px;
+  }
+  /* .world{
+    margin-left: 1325px;
+    margin-top: 2px;
+    font-size: 30px;
+  } */
+  /* .globelogo{
+    margin-left: 1290px;
+    margin-top: 80.5px;
+    font-size: 192px;
+  } */
+  /* .searchlogo{
+    margin-left: 1470px;
+    margin-top: 20px;
+    font-size: 27px;
+  }
+   */
+  .dot1{
+  margin-top: -18px;
+  font-size: 10px;
+  margin-left: 85px;
+  }
+  .dot2{
+  font-size: 10px;
+  margin-left: 165px;
+  margin-top: -17px;
+  }
+  
+  
+  
+  
+  
+  .menu-bar{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 2%;
+    text-decoration: white;
+    width: 100%;
+    text-align: right;
+    display: flex;
+  }
+  .menu-bar ul
+  {
+  display: inline-flex;
+  list-style: none;
+  color: #fff;
+  gap:0.97vw;
+  }
+  .menu-bar ul li{
+  width: 8.21vw;
+  left: -8px;
+  margin: 1.04vw;
+  margin-top:-32px;
+  padding: 4.21vw 0vw 0vw 0vw;
+  position: relative;
+  }
+  .menu-bar ul li a
+  {
+  text-decoration: none;
+  color:black;
+  }
+  .active, .menu-bar ul li
+  {
+  text-align:center;
+  padding-bottom: 1.3vw;
+  border-radius: 0.2vw;
+  }
+  .active, .menu-bar ul li:hover{
+    /* background-color:#4A148C; */
+  }
+  .menu-bar .fa
+  {
+   margin-right: 0.7vw;
+  }
+  .sub-menu-1{
+  display: none;
+  z-index:1;
+  margin-left: -1.6vw;
+  }
+  /* ? */
+  .menu-bar ul li:hover .sub-menu-1{
+  display: block;
+  /* position: absolute; */
+  left: 0;
+  top: 100%;
+  transition:1.6s;
+  background-color:#4A148C;
+  }
+  .sub-menu-1 ul{
+  display: block;
+  /* padding-right:10px; */
+  text-align:center;
+  margin-left: 0.5vw;
+  width:13vw;
+  /* padding-top:10px; */
+  transition:1.6s;
+  height: 70px;
+  margin-top:0.4vw;
+  /* gap: 25px; */
+  /* margin: 10px; */
+  -webkit-transition: height 0.3s ease;
+  transition: height 0.3s ease;
+  }
+  .sub-menu-1 ul li{
+    width:11.05vw;
+     padding:4px;
+     gap: 8vw;
+     /* gap:-10px; */
+  /* padding: 10px; */
+  }
+  .sub-menu-1 ul li:hover{
+  width:11.57vw;
+  background-color:#EF6C00;
+  /* padding: 10px; */
+  }
+  .sub-menu-1{
+  margin-left:-6.6vw;
+  display: none;
+  transition:1.6s;
+  }
+  .menu-bar ul li:hover .sub-menu-1{
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  transition:1.6s;
+  background-color:#784aac;
+  opacity:0.9;
+  }
+  .sub-menu-2{
+  margin-left:-6.4vw;
+  display: none;
+  width:250px;
+  text-align: center;
+  z-index:1;
+  }
+  .menu-bar ul li:hover .sub-menu-2{
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  background-color:#4A148C;
+  }
+  .sub-menu-2 ul{
+  display: block;
+  text-align:center;
+  width:250px;
+  margin-top:40px;
+  height: 40px;
+  margin-left: 10px;
+  }
+  .sub-menu-2 ul li{
+  width: 280px;
+  padding:5px;
+  /* padding: 10px; */
+  }
+  .sub-menu-2 ul li:hover{
+  width:210px;
+  background-color:#EF6C00;
+  /* padding: 10px; */
+  }
+  .sub-menu-2{
+  display: none;
+  }
+  .menu-bar ul li:hover .sub-menu-2{
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  background-color:#784aac;
+  opacity:0.9;
+  }
+  .menu-header{
+  background-color:white;
+  text-align: right;
+  position:fixed;
+  width:100vw;
+  height:65px;
+  margin-top:48px;
+  z-index:1;
+  }
+  .what {
+    margin-left:45.5%;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 1.3rem;
+     font-weight: bold;
+  top: -100px;
+  margin-top: -50px;
+   
+     /* width: 150%; */
+  }
+  .Whos{
+    margin-top:-50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .ser{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 21px;
+    font-weight: bold;
+     
+    margin-top:-50px;
+  }
+  .Insights{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 21px;
+     font-weight: bold;
+     margin-left: -21px;
+     margin-top:-50px;
+  }
+  .getin{
+   margin-top:-50px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 21px;
+   font-weight: bold;
+  }
+  
+  .styo:hover{
+  color:rgb(70, 70, 73);
+  transform: scale(1.25);
+  }
+  
+  
+  
+  .enimg{
+   
+    text-align: center;
+    margin-left: -60.4vw;
+    margin-top: -1.8vh;
+  }
+  .gg{
+    margin-left: -10.6vw;
+    margin-top: 8px;
+    margin-bottom: -32px;
+  width: 0%;
+  font-size: 25px;
+  text-decoration: none;
+  color: #fff;
+  }
+  .lk{
+  margin-top: -50px;
+  margin-left: 32vw;
+  }
+  .text
+  {
+    margin-top: -10px;
+  
+  }
+  
+  
+  
+  .container{
+    background-image:url(Picture89.PNG);
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:90.2vh;
+    margin-top:113px;
+  }
+  .hpos1{
+    color:white;margin-left:5.2vw;margin-top:6.5vh;font-size:2vw;font-family:'Times New Roman', Times, serif;
+  }
+  .parapos1{
+    color:white;margin-top:14vh;margin-left:-53vw;line-height:5vh;font-size:1.8vw;font-family: 'Times New Roman', Times, serif;
+  }
+  .parapos2{
+    color:white;margin-top:35vh;margin-left:-53vw;line-height:5vh;font-size:1.8vw;font-family: 'Times New Roman', Times, serif;
+  }
+  .circle {
+    width: 400px;
+    height: 400px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 46px;
+    margin-left: 295px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  }
+  .circle2 {
+    width: 400px;
+    height: 400px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 337px;
+    margin-left: -405px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+    border: black;
+  }
+ 
+  .paragraph{
+    display: flex;
+  }
+  .para1{
+    margin-top: 200px;
+    
+    font-size: 54px;
+    
+    margin-left: 3%;
+    width: 60vw;
+    
+   
+  }
+  .para2{
+    margin-top: 280px;
+    color: #fff;
+    font-size: 54px;
+    font-family: sans-serif;
+    margin-left: -33.6%;
+    width: 60vw;
+    font-weight: bold;
+  }
+  .para3{
+    margin-top: 380px;
+    color:black;
+    font-size: 26px;
+    
+    margin-left: -33.5%;
+    width: 58vw;
+  }
+  .let{
+    font-size: 120px;
+    margin-top: -58px;
+  }
+  /* .circle {
+    width: 280px;
+    height: 280px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 165px;
+    margin-left: -110%;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  } */
+  .circle{
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  }
+  .lets{
+    font-size: 120px;
+    margin-top: -58px;
+  }
+  /* .circle2 {
+    width: 280px;
+    height: 280px;
+    line-height: 500px;
+    border-radius: 50%;
+    margin-top: 360px;
+    margin-left: -265px;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+    border: black;
+  } */
+  
+  .container1{
+    background-image: linear-gradient(to right, rgba(194, 206, 207, 0.904) , rgb(70, 173, 199));
+    height:12vh;
+    
+  
+  }
+  .ppos1{
+    margin-left:3vw;
+    font-size:2vw;
+    padding-top:1.5vh;
+    color:#717171
+  }
+  .numbertext {
+    color: blue;
+    font-size: 22px;
+    margin-left: 460px;
+    position: absolute;
+    margin-top: -49px;
+    font-weight:bold;
+  }
+
+  .container2{
+  height: 99vh;
+  background-color: white;
+  display: flex;
+  margin-top: -40px;
+  }
+  
+  
+                                                         
+                                                             
+                                                         
+                                                             
+                                                             
+  .text {
+    color:white;
+    font-size: 28px;
+  font-family: sans-serif;
+    position: absolute;
+   margin-top: 30px;
+   margin-left: 280px;
+    width: 50%;
+    text-align: justify;
+    line-height:40px;
+   
+  
+  }
+  
+  .img1{
+    margin-top: -41px;
+    margin-left:-20vh
+  }
+  .img2{
+    margin-top: -45px;
+    margin-left:-22vh
+  }
+  .img3{
+    margin-top: -41px;
+    margin-left:-20vh
+  }
+  .img4{
+    margin-top: -41px;
+    margin-left:-20vh
+  }
+  
+  
+  
+  
+  
+  /* .mySlides fade{
+    margin-top: -20px;
+  } */
+  
+  /* container-3 */
+  
+  
+  
+  
+  .ppos2{
+margin-left:25.45vw;
+color:black;
+margin-top:12.5vh;
+font-size:3vw;
+  }
+  .container1{
+    /* background-image:url(Picture19.PNG); */
+    background-color:yellow;
+    position: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: auto;
+  margin-right: auto;
+    height:82vh;
+    margin-top:0px;
+  }
+  .slideshow-container {
+    height: 90vh;
+    position: relative;
+    margin: auto;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -116px;
+    padding: 16px;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+                                                             /* first slide image and text */                                                           
+                                                             
+  .hpos2{
+    margin-top:-650px;
+    margin-left:280px;
+    color:white;
+    font-size:30px;
+  }
+                                                             
+    .text-B{
+      color:white;
+    font-size: 28px;
+  font-family: sans-serif;
+    position: absolute;
+   margin-top: -480px;
+   margin-left: 200px;
+    width: 50%;
+    text-align: justify;
+    }                                                         
+                                                            
+  .me{
+    color: black;
+    text-decoration: underline;
+    /* margin-left: 600px; */
+    /* margin-top: -1066px; */
+    /* font-size: 2vw; */
+    font-family: sans-serif;
+  }
+  
+  .co{
+  /* margin-left: 880px; */
+  /* margin-top: -28px; */
+  font-size: 24px;
+  font-family: sans-serif;
+  text-decoration: underline;
+  }
+  .int{
+    /* margin-left: 1100px; */
+    margin-top: -26px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-decoration: underline;
+  }
+  
+  
+  
+  
+  
+  .meimge1{
+    margin-top: -679px;
+    margin-left: 1100px;
+    z-index: -1;
+    display: flex;
+    /* width:1000px; */
+   
+  }
+  /* .rd {
+  width:10%;
+  height:30px;
+  margin-top: 300px;
+  margin-left: 200px;
+  border-radius: 30px;
+  background-color:#FFFFFF;
+  text-align: center;
+  border:2px solid;
+  border-color: rgba(0, 255, 0, 0.5);  
+  } */
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  
+  .row {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    padding: 30px 150px;
+    margin-top:-740px;
+    margin-left:350px;
+  }
+  
+  /* Create  equal columns that sits next to each other */
+  .column {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    max-width: 25%;
+    padding: 10px 10px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    padding:10px 0px;
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .column {
+      -ms-flex: 50%;
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      -ms-flex: 100%;
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+                                                        /* second slide image and text */
+
+.HD-1{
+  margin-left:420px;
+  margin-top:-710px;
+  color:white;
+  font-size:20px;
+}
+        .globelogo{
+        margin-left: 520px;
+
+        margin-top: 80px;
+        font-size: 150px;
+       }
+  
+  .text1 {
+    color:white;
+    font-size: 28px;
+  font-family: sans-serif;
+    position: absolute;
+   margin-top: 60px;
+   margin-left: 200px;
+    width: 50%;
+    text-align: justify;
+   
+  
+  }
+  .me1{
+    color:brown;
+    margin-left: 470px;
+    margin-top: -566px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-decoration: underline;
+  }
+  
+  .co1{
+  margin-left: 780px;
+  margin-top: -28px;
+  font-size: 24px;
+  font-family: sans-serif;
+  text-decoration: underline;
+  }
+  .int1{
+    margin-left: 990px;
+    margin-top: -26px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-decoration: underline;
+  }
+  
+  
+  
+  
+  
+  .meimge2{
+    margin-top: -268.5px;
+    margin-left: 1100px;
+    z-index: -1;
+    display: flex;
+   
+  }
+  /* .rd {
+  width:10%;
+  height:30px;
+  margin-top: 300px;
+  margin-left: 200px;
+  border-radius: 30px;
+  background-color:#FFFFFF;
+  text-align: center;
+  border:2px solid;
+  border-color: rgba(0, 255, 0, 0.5);  
+  } */
+  
+  .rowA {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    padding: 30px 150px;
+    margin-top:-740px;
+    margin-left:350px;
+  }
+  
+  /* Create  equal columns that sits next to each other */
+  .columnA {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    max-width: 25%;
+    padding: 10px 10px;
+  }
+  
+  .columnA img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    padding:10px 0px;
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .columnA {
+      -ms-flex: 50%;
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .columnA {
+      -ms-flex: 100%;
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+  
+  
+                                        /* ---------------------------third slides css------------------------ */
+  
+
+  .HD-2{
+   margin-left:420px;
+  margin-top:-710px;
+  color:white;
+  font-size:20px;
+  }
+
+  .text2 {
+    color:white;
+    font-size: 28px;
+  font-family: sans-serif;
+    position: absolute;
+   margin-top: 60px;
+   margin-left: 200px;
+    width: 50%;
+    text-align: justify;
+    line-height:40px;
+   
+  
+  }
+  .img5{
+    margin-left:480px;
+    margin-top:100px;
+  }
+  .me2{
+   
+    margin-left: 470px;
+    margin-top: -570px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-decoration: underline;
+  }
+  
+  .co2{
+    color:brown;
+  margin-left: 780px;
+  margin-top: -28px;
+  font-size: 24px;
+  font-family: sans-serif;
+  text-decoration: underline;
+  }
+  .int2{
+    margin-left: 990px;
+    margin-top: -26px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-decoration: underline;
+  }
+  
+  
+  
+  
+  
+  .meimge3{
+    margin-top: -262px;
+    margin-left: 1100px;
+    z-index: -1;
+    display: flex;
+   
+  }
+  .rowB {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    padding: 30px 150px;
+    margin-top:-740px;
+    margin-left:350px;
+  }
+  
+  /* Create  equal columns that sits next to each other */
+  .columnB {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    max-width: 25%;
+    padding: 10px 10px;
+  }
+  
+  .columnB img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    padding:10px 0px;
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .columnB{
+      -ms-flex: 50%;
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .columnB {
+      -ms-flex: 100%;
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+  
+  
+                                                    /* ---------------------------fourth slides css------------------------ */
+.HD-3{
+margin-left:420px;
+margin-top:-710px;
+color:white;
+font-size:20px;
+}
+  .text3 {
+    color:white;
+    font-size: 28px;
+  font-family: sans-serif;
+    position: absolute;
+   margin-top: 60px;
+   margin-left: 200px;
+    width: 50%;
+    text-align: justify;
+   
+  
+  }
+  .img6{
+    margin-left:490px;
+    margin-top:100px;
+  }
+  .me3{
+   
+    margin-left: 470px;
+    margin-top: -570px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-decoration: underline;
+  }
+  
+  .co3{
+   
+  margin-left: 780px;
+  margin-top: -28px;
+  font-size: 24px;
+  font-family: sans-serif;
+  text-decoration: underline;
+  }
+  .int3{
+    color:brown;
+    margin-left: 990px;
+    margin-top: -26px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-decoration: underline;
+  }
+  
+  
+  
+  
+  
+  .meimge4{
+    margin-top: -290px;
+    margin-left: 1100px;
+    z-index: -1;
+    display: flex;
+   
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+   margin-top: 100px;
+   margin-left: -200px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  /* .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  } */
+  .img1{
+    margin-top: -41px;
+    margin-left:-20vh
+  }
+  .img2{
+    margin-top: -41px;
+    margin-left:-20vh
+  }
+  .img3{
+    margin-top: -41px;
+    margin-left:-20vh
+  }
+  .img4{
+    margin-top: -41px;
+    margin-left:-20vh
+  }
+  .rowC {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    padding: 30px 150px;
+    margin-top:-720px;
+    margin-left:350px;
+  }
+  
+  /* Create  equal columns that sits next to each other */
+  .columnC {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    max-width: 25%;
+    padding: 10px 10px;
+  }
+  
+  .columnC img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    padding:10px 0px;
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .columnC {
+      -ms-flex: 50%;
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .columnC {
+      -ms-flex: 100%;
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+  .container9{
+    background-image: linear-gradient(to right, rgb(173, 184, 197) , rgba(31, 82, 223, 0.986));
+    height:79.4vh;
+    margin-left:-0.4vw;
+    width:99.5vw;
+    margin-top:10px;
+}
+ .Circle1{
+  margin-left:1.7vw;padding-top:11.55vh;
+ } 
+ .Circle2{
+  margin-left:1.64vw;margin-top:19.6vh;
+ }
+  #circle{
+    width: 7vw;height: 14vh;border-radius:7vw;border-width:0.1vw;border-style:solid;border-color:black;
+    background-image: linear-gradient(to bottom, rgba(248, 189, 29, 0.904) , rgb(0, 255, 221));
+  }
+  
+  .letE{
+    margin-top:-24vh;margin-left:3.85vw;font-size:5vw;color:white;margin-top:-13.2vh;
+  }
+  .letG{
+    margin-top:-24vh;margin-left:3.35vw;font-size:5vw;color:white;margin-top:-13.2vh;
+  }
+  .hpost5{
+  margin-left:10.45vw;margin-top:34.5vh;font-size:0.7vw;
+  }
+  .para1{
+  margin-left:10.4vw;font-size:1.2vw;line-height:4vh;margin-top:-55.4vh;
+  }
+  .hpost6{
+    margin-left:39.35vw;margin-top:-43.8vh;font-size:0.7vw;
+  }
+  .hpost7{
+    margin-left:55.5vw;margin-top:-3.3vh;font-size:0.7vw;
+  }
+  .hpost8{
+    margin-left:79.3vw;margin-top:-3.5vh;font-size:0.7vw;color:white;
+  }
+  .links{
+    font-weight:bold;margin-left:39.5vw;margin-top:0.1vh;font-size:1vw;line-height:2vh;
+  }
+  .para3{
+    font-weight:bold;margin-left:55.5vw;margin-top:-34.1vh;font-size:1vw;line-height:2vh;
+  }
+  .info{
+    font-weight:bold;margin-left:79.5vw;margin-top:-34.2vh;font-size:1vw;color:white;line-height:2vh;
+  }
+  .Hpos{
+    margin-left:10.5vw;margin-top:1.4vh;font-size:0.6vw;
+  }
+  .Mpos{
+    margin-left:39.9vw;margin-top:-3vh;font-size:0.6vw;
+  }
+  .Kpos{
+    margin-left:67.7vw;margin-top:-3vh;font-size:0.6vw;
+  }
+  .HA{
+    margin-left:10.5vw;margin-top:1.5vh;font-size:1vw;
+  }
+  .MA{
+    margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
+  }
+  .KA{
+    margin-left:67.7vw;margin-top:-7.3vh;font-size:1vw;
+  }
+  .Tpos{
+    margin-left:10.5vw;margin-top:2vh;font-size:0.6vw;
+  }
+  .Gpos{
+    margin-left:39.9vw;margin-top:-3vh;font-size:0.6vw;
+  }
+  .Rpos{
+    margin-left:67.7vw;margin-top:-3vh;font-size:0.6vw;
+  }
+  .TA{
+    margin-left:10.5vw;margin-top:1.3vh;font-size:1vw;
+  }
+  .GA{
+    margin-left:39.9vw;margin-top:-7.2vh;font-size:1vw;
+  }
+  .RA{
+    margin-left:67.7vw;margin-top:-4.5vh;font-size:1vw;
+  }
+    .footer{
+      height: 60px;
+      margin-top: 0.2px;
+      display: flex;
+      background-color: bisque;
+    }
+    .fp{
+      margin-top: 18px;
+     margin-left: 1.5%;
+     font-size: 20px;
+    }
+    .fc{
+      margin-left: 74.5%;
+      margin-top:10px ;
+    }
+    .eimg{
+      margin-left: -93.7%;
+      margin-top: 7px;
+    }
+    .lin{
+      margin-top: 9.5px;
+      margin-left: 385px;
+    }
+    .face{
+      margin-top: 9.5px;
+     margin-left: 2%;
+    }
+    .inst{
+      margin-top: 9.5px;
+     margin-left: 2.2%;
+    }
+    .gm{
+      margin-top: 9.5px;
+      margin-left: -27%;
+    }
+    .uu{
+      margin-top: 9.5px;
+      margin-left: 1.6%;
+    }
+  
+  
+  

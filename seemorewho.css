@@ -584,6 +584,92 @@ margin-right: auto;
   margin-top:2px;
   margin-left:1200px;
 }
+
+.image7{
+  margin-top:-670px;
+  margin-left:227px;
+}
+.img_7{
+  margin-top:-533.5px;
+  margin-left:227px;
+  
+}
+.h-7{
+ 
+  text-align:center;
+  color:dodgerblue;
+  margin-top:2px;
+  margin-left:-1185px;
+}
+.p-7{
+  text-align:center;
+  font-size:25px;
+  color:gray;
+  margin-top:2px;
+  margin-left:-1165px;
+}
+/* .rec2{
+  width:450px;
+  height:535px;
+  border-style:solid;
+  border-width:0.1vw;
+  background-color:white;
+  margin-left:738px;
+  margin-top:-540px;
+  
+} */
+.image8{
+  margin-top:-523px;
+  margin-left:827px;
+}
+.img_8{
+  margin-top:-534px;
+  margin-left:827px;
+}
+.h-8{
+  color:dodgerblue;
+  text-align:center;
+  margin-top:2px;
+  margin-left:15px;
+}
+.p-8{
+  text-align:center;
+  font-size:25px;
+  color:gray;
+  margin-top:2px;
+  margin-left:-15px;
+}
+/* .rec3{
+  width:450px;
+  height:535px;
+  border-style:solid;
+  border-width:0.1vw;
+  background-color:white;
+  margin-left:1338px;
+  margin-top:-540px;
+  
+} */
+.image9{
+  margin-top:-523px;
+  margin-left:1427px;
+}
+.img_9{
+  margin-top:-534px;
+  margin-left:1427px;
+}
+.h-9{
+  text-align:center;
+  color:dodgerblue;
+  margin-top:2px;
+  margin-left:1200px;
+}
+.p-9{
+  text-align:center;
+  font-size:25px;
+  color:gray;
+  margin-top:2px;
+  margin-left:1200px;
+}
 .slideshow-container {
   height: 68vh;
   position: relative;
